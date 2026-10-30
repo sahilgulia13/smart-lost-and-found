@@ -1,0 +1,1002 @@
+item_id,report_type,item_name,category,brand,color,location,description,date_reported,contact,status
+LF0001,Found,Phone,Electronics,Samsung,White,Seminar Hall,personal phone,2026-03-13,student0001@example.com,Claimed
+LF0002,Lost,Phone,Electronics,Milton,Red,Hostel,everyday phone,2026-01-14,student0002@example.com,Active
+LF0003,Found,Umbrella,Clothing,HP,Green,Auditorium,Large everyday umbrella,2026-01-04,student0003@example.com,Claimed
+LF0004,Lost,Keychain,Accessories,Sony,Grey,Seminar Hall,Large personal keychain,2026-02-19,student0004@example.com,Active
+LF0005,Lost,Umbrella,Clothing,Samsung,Brown,Seminar Hall,Large everyday umbrella,2026-07-13,student0005@example.com,Returned
+LF0006,Lost,Phone,Electronics,Dell,White,Sports Ground,Large  phone,2026-02-10,student0006@example.com,Claimed
+LF0007,Found,Notebook,Documents,Samsung,Blue,Hostel,Medium everyday notebook,2026-05-17,student0007@example.com,Active
+LF0008,Found,Cap,Clothing,Dell,Grey,Library,Medium personal cap,2026-10-13,student0008@example.com,Returned
+LF0009,Found,Book,Documents,Sony,Red,Parking Area,book,2026-10-18,student0009@example.com,Active
+LF0010,Lost,Keychain,Accessories,Milton,Brown,Seminar Hall,keychain,2026-10-15,student0010@example.com,Active
+LF0011,Lost,Notebook,Documents,Apple,White,Main Gate,Medium  notebook,2026-02-16,student0011@example.com,Active
+LF0012,Found,Water Bottle,Other,Milton,Brown,Hostel,Small personal water bottle,2026-08-28,student0012@example.com,Active
+LF0013,Found,Calculator,Other,HP,Pink,Library,Large everyday calculator,2026-08-11,student0013@example.com,Active
+LF0014,Found,Water Bottle,Other,Unknown,Red,Main Gate,Large everyday water bottle,2026-09-17,student0014@example.com,Claimed
+LF0015,Lost,Bottle,Other,Apple,White,Auditorium,Large everyday bottle,2026-09-08,student0015@example.com,Active
+LF0016,Lost,Laptop,Electronics,Samsung,Blue,Main Gate,everyday laptop,2026-09-06,student0016@example.com,Active
+LF0017,Found,Folder,Documents,Dell,Brown,Sports Ground,Large  folder,2026-10-04,student0017@example.com,Returned
+LF0018,Lost,Tiffin,Other,Sony,Black,Seminar Hall,Medium everyday tiffin,2026-02-02,student0018@example.com,Active
+LF0019,Lost,Phone,Electronics,Sony,White,Hostel,Medium college phone,2026-01-17,student0019@example.com,Active
+LF0020,Lost,Hoodie,Clothing,Unknown,Pink,Classroom,hoodie,2026-10-20,student0020@example.com,Active
+LF0021,Lost,Wallet,Accessories,Puma,Green,Parking Area,Small personal wallet,2026-07-01,student0021@example.com,Active
+LF0022,Found,Charger,Electronics,Dell,Red,Classroom,everyday charger,2026-02-25,student0022@example.com,Claimed
+LF0023,Found,Hoodie,Clothing,Nike,White,Library,Small personal hoodie,2026-02-08,student0023@example.com,Active
+LF0024,Found,Watch,Accessories,Puma,Black,Main Gate,personal watch,2026-04-20,student0024@example.com,Active
+LF0025,Found,Scarf,Clothing,Nike,Blue,Classroom,Large everyday scarf,2026-10-12,student0025@example.com,Active
+LF0026,Lost,Tablet,Electronics,Apple,Pink,Hostel,Medium personal tablet,2026-01-30,student0026@example.com,Active
+LF0027,Lost,Water Bottle,Other,Dell,Green,Canteen,Medium personal water bottle,2026-02-04,student0027@example.com,Active
+LF0028,Found,Water Bottle,Other,Milton,Grey,Computer Lab,Medium college water bottle,2026-10-17,student0028@example.com,Active
+LF0029,Found,Keychain,Accessories,Nike,Grey,Canteen,Small  keychain,2026-06-03,student0029@example.com,Active
+LF0030,Lost,Bottle,Other,Milton,Brown,Main Gate,Large personal bottle,2026-04-20,student0030@example.com,Active
+LF0031,Found,Keychain,Accessories,Boat,Black,Hostel,Large personal keychain,2026-10-06,student0031@example.com,Active
+LF0032,Lost,Keychain,Accessories,HP,Brown,Computer Lab,Medium college keychain,2026-10-11,student0032@example.com,Claimed
+LF0033,Found,Keychain,Accessories,Samsung,Green,Computer Lab,Small personal keychain,2026-01-27,student0033@example.com,Active
+LF0034,Found,Notebook,Documents,Milton,Green,Hostel,Small personal notebook,2026-08-15,student0034@example.com,Active
+LF0035,Lost,Laptop,Electronics,Milton,Blue,Sports Ground,Medium personal laptop,2026-10-26,student0035@example.com,Claimed
+LF0036,Lost,Certificate,Documents,Dell,White,Auditorium,everyday certificate,2026-04-18,student0036@example.com,Claimed
+LF0037,Lost,Watch,Accessories,HP,Grey,Sports Ground,Medium college watch,2026-01-13,student0037@example.com,Claimed
+LF0038,Found,Wallet,Accessories,Dell,Red,Parking Area,Large college wallet,2026-08-29,student0038@example.com,Claimed
+LF0039,Lost,Watch,Accessories,Sony,Brown,Canteen,Large college watch,2026-07-24,student0039@example.com,Active
+LF0040,Found,Tiffin,Other,Boat,Blue,Seminar Hall,Large personal tiffin,2026-03-01,student0040@example.com,Returned
+LF0041,Found,Tablet,Electronics,Puma,White,Sports Ground,Medium college tablet,2026-06-10,student0041@example.com,Active
+LF0042,Lost,Charger,Electronics,Dell,Grey,Sports Ground,Small college charger,2026-10-03,student0042@example.com,Active
+LF0043,Lost,Calculator,Other,Milton,Brown,Sports Ground,Large  calculator,2026-06-03,student0043@example.com,Active
+LF0044,Lost,Folder,Documents,HP,Brown,Sports Ground,Small college folder,2026-07-14,student0044@example.com,Active
+LF0045,Found,Notebook,Documents,Nike,Pink,Parking Area,Medium  notebook,2026-06-14,student0045@example.com,Claimed
+LF0046,Found,Wallet,Accessories,Samsung,Red,Computer Lab,Medium everyday wallet,2026-06-21,student0046@example.com,Active
+LF0047,Lost,Wallet,Accessories,Unknown,White,Parking Area,everyday wallet,2026-09-01,student0047@example.com,Active
+LF0048,Found,Cap,Clothing,Samsung,Green,Classroom,Medium  cap,2026-01-03,student0048@example.com,Active
+LF0049,Lost,Tablet,Electronics,Nike,Blue,Parking Area,Large  tablet,2026-03-04,student0049@example.com,Returned
+LF0050,Found,Bottle,Other,Nike,Blue,Parking Area,college bottle,2026-10-08,student0050@example.com,Claimed
+LF0051,Found,Keychain,Accessories,Nike,White,Computer Lab,Medium college keychain,2026-05-21,student0051@example.com,Active
+LF0052,Lost,Certificate,Documents,Puma,Blue,Classroom,Small  certificate,2026-04-29,student0052@example.com,Active
+LF0053,Found,Scarf,Clothing,Puma,Green,Seminar Hall,Small  scarf,2026-04-16,student0053@example.com,Active
+LF0054,Found,Jacket,Clothing,Puma,Red,Parking Area,Medium college jacket,2026-07-19,student0054@example.com,Active
+LF0055,Lost,Cap,Clothing,HP,Pink,Main Gate,Small  cap,2026-07-27,student0055@example.com,Active
+LF0056,Lost,Bottle,Other,HP,Pink,Main Gate,Small college bottle,2026-08-08,student0056@example.com,Active
+LF0057,Lost,Scarf,Clothing,Puma,Brown,Sports Ground,Large personal scarf,2026-06-22,student0057@example.com,Active
+LF0058,Lost,Jacket,Clothing,Dell,White,Library,Small everyday jacket,2026-06-29,student0058@example.com,Returned
+LF0059,Lost,Wallet,Accessories,Samsung,Red,Parking Area,Large college wallet,2026-08-31,student0059@example.com,Active
+LF0060,Lost,Bag,Accessories,Boat,White,Seminar Hall,Small college bag,2026-03-25,student0060@example.com,Claimed
+LF0061,Found,Tiffin,Other,Samsung,Red,Canteen,Large personal tiffin,2026-04-12,student0061@example.com,Returned
+LF0062,Found,Water Bottle,Other,Samsung,Grey,Library,water bottle,2026-07-09,student0062@example.com,Active
+LF0063,Found,Charger,Electronics,HP,Green,Main Gate,Large  charger,2026-08-24,student0063@example.com,Active
+LF0064,Found,Cap,Clothing,Samsung,Brown,Parking Area,Medium  cap,2026-05-06,student0064@example.com,Active
+LF0065,Found,Bottle,Other,Sony,Blue,Parking Area,Medium college bottle,2026-09-11,student0065@example.com,Active
+LF0066,Found,Certificate,Documents,Milton,Black,Hostel,Medium personal certificate,2026-05-22,student0066@example.com,Claimed
+LF0067,Found,Sunglasses,Accessories,Nike,Pink,Parking Area,Small personal sunglasses,2026-05-04,student0067@example.com,Active
+LF0068,Found,Notebook,Documents,Unknown,Grey,Parking Area,Large  notebook,2026-06-06,student0068@example.com,Active
+LF0069,Found,Calculator,Other,Boat,Brown,Classroom,Small everyday calculator,2026-05-19,student0069@example.com,Active
+LF0070,Lost,ID Card,Documents,Boat,Brown,Canteen,Medium college id card,2026-09-05,student0070@example.com,Active
+LF0071,Lost,Keychain,Accessories,HP,Brown,Library,Small college keychain,2026-10-01,student0071@example.com,Active
+LF0072,Lost,Sunglasses,Accessories,Boat,Pink,Parking Area,college sunglasses,2026-10-21,student0072@example.com,Claimed
+LF0073,Found,Wallet,Accessories,Samsung,White,Sports Ground,personal wallet,2026-09-02,student0073@example.com,Returned
+LF0074,Lost,Water Bottle,Other,Boat,White,Classroom,Small  water bottle,2026-10-16,student0074@example.com,Active
+LF0075,Lost,Bottle,Other,Nike,Pink,Computer Lab,college bottle,2026-07-14,student0075@example.com,Claimed
+LF0076,Lost,Bottle,Other,Dell,Red,Computer Lab,Small everyday bottle,2026-02-20,student0076@example.com,Active
+LF0077,Lost,Watch,Accessories,Nike,Pink,Computer Lab,Small everyday watch,2026-07-29,student0077@example.com,Active
+LF0078,Found,Certificate,Documents,Boat,Red,Sports Ground,Small everyday certificate,2026-04-30,student0078@example.com,Active
+LF0079,Lost,Keychain,Accessories,Boat,Brown,Parking Area,Small  keychain,2026-03-26,student0079@example.com,Active
+LF0080,Found,Book,Documents,Nike,White,Seminar Hall,Small  book,2026-09-10,student0080@example.com,Active
+LF0081,Found,Folder,Documents,Unknown,Black,Computer Lab,Small everyday folder,2026-04-28,student0081@example.com,Active
+LF0082,Found,Umbrella,Clothing,Unknown,Green,Parking Area,Small  umbrella,2026-04-03,student0082@example.com,Returned
+LF0083,Found,Book,Documents,HP,Grey,Sports Ground,college book,2026-02-23,student0083@example.com,Active
+LF0084,Lost,Umbrella,Clothing,Boat,Grey,Canteen,personal umbrella,2026-06-11,student0084@example.com,Active
+LF0085,Found,Tiffin,Other,Sony,Pink,Parking Area,Small everyday tiffin,2026-09-23,student0085@example.com,Active
+LF0086,Lost,Folder,Documents,Nike,White,Library,Medium everyday folder,2026-08-13,student0086@example.com,Returned
+LF0087,Lost,Folder,Documents,Dell,White,Parking Area,Small everyday folder,2026-02-17,student0087@example.com,Active
+LF0088,Found,Scarf,Clothing,Nike,Red,Parking Area,Medium  scarf,2026-09-05,student0088@example.com,Active
+LF0089,Lost,Bag,Accessories,Puma,Grey,Hostel,Large personal bag,2026-05-22,student0089@example.com,Claimed
+LF0090,Found,Certificate,Documents,Milton,Pink,Auditorium,Large  certificate,2026-08-17,student0090@example.com,Claimed
+LF0091,Lost,Scarf,Clothing,Unknown,Green,Classroom,personal scarf,2026-05-03,student0091@example.com,Returned
+LF0092,Found,Book,Documents,Nike,Black,Main Gate,Large personal book,2026-03-19,student0092@example.com,Active
+LF0093,Found,Jacket,Clothing,Puma,Blue,Canteen,college jacket,2026-03-15,student0093@example.com,Active
+LF0094,Found,Folder,Documents,Milton,Green,Auditorium,personal folder,2026-06-18,student0094@example.com,Active
+LF0095,Lost,Water Bottle,Other,Dell,White,Sports Ground,Small personal water bottle,2026-05-28,student0095@example.com,Active
+LF0096,Found,Hoodie,Clothing,Sony,Black,Computer Lab,Large college hoodie,2026-01-24,student0096@example.com,Returned
+LF0097,Lost,Hoodie,Clothing,HP,Blue,Main Gate,Small  hoodie,2026-10-17,student0097@example.com,Active
+LF0098,Found,Lunch Box,Other,Dell,Pink,Computer Lab,college lunch box,2026-03-15,student0098@example.com,Returned
+LF0099,Found,Charger,Electronics,Samsung,Pink,Auditorium,Large  charger,2026-03-22,student0099@example.com,Active
+LF0100,Found,Book,Documents,Nike,White,Classroom,college book,2026-07-16,student0100@example.com,Active
+LF0101,Found,Calculator,Other,Boat,Black,Seminar Hall,Small  calculator,2026-07-22,student0101@example.com,Active
+LF0102,Found,Notebook,Documents,Unknown,Brown,Main Gate,Small personal notebook,2026-04-08,student0102@example.com,Active
+LF0103,Lost,Book,Documents,Samsung,Brown,Auditorium,everyday book,2026-03-09,student0103@example.com,Active
+LF0104,Found,Watch,Accessories,HP,Brown,Parking Area,Large college watch,2026-05-20,student0104@example.com,Active
+LF0105,Lost,Charger,Electronics,Puma,Grey,Canteen,personal charger,2026-04-26,student0105@example.com,Active
+LF0106,Lost,Folder,Documents,Unknown,Green,Auditorium,Small everyday folder,2026-05-15,student0106@example.com,Active
+LF0107,Found,Jacket,Clothing,Samsung,Pink,Computer Lab,personal jacket,2026-04-24,student0107@example.com,Returned
+LF0108,Lost,Wallet,Accessories,Samsung,White,Classroom,Medium  wallet,2026-09-10,student0108@example.com,Active
+LF0109,Found,Scarf,Clothing,Puma,White,Parking Area,college scarf,2026-03-21,student0109@example.com,Active
+LF0110,Lost,Earbuds,Electronics,Sony,White,Auditorium,Large personal earbuds,2026-05-01,student0110@example.com,Active
+LF0111,Lost,Scarf,Clothing,Samsung,Red,Seminar Hall,Small personal scarf,2026-08-21,student0111@example.com,Returned
+LF0112,Lost,Notebook,Documents,Samsung,Red,Seminar Hall,Medium everyday notebook,2026-04-16,student0112@example.com,Claimed
+LF0113,Lost,Notebook,Documents,HP,Brown,Main Gate,Small personal notebook,2026-03-16,student0113@example.com,Active
+LF0114,Found,Wallet,Accessories,Unknown,Grey,Library,Medium college wallet,2026-05-02,student0114@example.com,Claimed
+LF0115,Found,Laptop,Electronics,Nike,Pink,Auditorium,Small  laptop,2026-02-02,student0115@example.com,Active
+LF0116,Lost,Lunch Box,Other,Boat,Pink,Library,Small  lunch box,2026-09-24,student0116@example.com,Active
+LF0117,Lost,Cap,Clothing,Samsung,White,Auditorium,Medium personal cap,2026-08-16,student0117@example.com,Active
+LF0118,Found,Keychain,Accessories,Boat,Pink,Hostel,personal keychain,2026-09-29,student0118@example.com,Active
+LF0119,Lost,Tablet,Electronics,Puma,Grey,Parking Area,tablet,2026-04-27,student0119@example.com,Active
+LF0120,Found,Earbuds,Electronics,Sony,Blue,Parking Area,Small personal earbuds,2026-05-11,student0120@example.com,Active
+LF0121,Found,Phone,Electronics,HP,Black,Seminar Hall,Large personal phone,2026-07-10,student0121@example.com,Active
+LF0122,Found,Scarf,Clothing,Boat,Brown,Auditorium,Small everyday scarf,2026-01-27,student0122@example.com,Claimed
+LF0123,Lost,Sunglasses,Accessories,Milton,Grey,Canteen,Large everyday sunglasses,2026-06-29,student0123@example.com,Claimed
+LF0124,Lost,Umbrella,Clothing,Apple,Blue,Computer Lab,Large college umbrella,2026-05-17,student0124@example.com,Active
+LF0125,Lost,ID Card,Documents,Puma,White,Main Gate,Small personal id card,2026-10-17,student0125@example.com,Claimed
+LF0126,Found,Lunch Box,Other,HP,Grey,Computer Lab,Large personal lunch box,2026-06-24,student0126@example.com,Active
+LF0127,Lost,Laptop,Electronics,Samsung,Brown,Parking Area,laptop,2026-01-26,student0127@example.com,Claimed
+LF0128,Found,Tiffin,Other,Samsung,Grey,Sports Ground,Small college tiffin,2026-09-20,student0128@example.com,Active
+LF0129,Found,Tiffin,Other,Unknown,Black,Library,Medium college tiffin,2026-07-22,student0129@example.com,Active
+LF0130,Found,Watch,Accessories,Apple,Pink,Sports Ground,Medium everyday watch,2026-03-03,student0130@example.com,Active
+LF0131,Lost,Umbrella,Clothing,Samsung,Green,Library,personal umbrella,2026-07-01,student0131@example.com,Active
+LF0132,Found,Jacket,Clothing,Puma,Green,Computer Lab,Small  jacket,2026-10-21,student0132@example.com,Active
+LF0133,Lost,Earbuds,Electronics,Sony,White,Sports Ground,Small everyday earbuds,2026-08-24,student0133@example.com,Claimed
+LF0134,Found,Umbrella,Clothing,Boat,Grey,Classroom,Large everyday umbrella,2026-07-22,student0134@example.com,Active
+LF0135,Lost,Tablet,Electronics,Sony,Grey,Main Gate,Medium personal tablet,2026-04-10,student0135@example.com,Active
+LF0136,Lost,Keychain,Accessories,Samsung,Blue,Parking Area,keychain,2026-03-20,student0136@example.com,Active
+LF0137,Found,Bottle,Other,HP,Pink,Canteen,bottle,2026-06-11,student0137@example.com,Claimed
+LF0138,Lost,Certificate,Documents,Boat,Pink,Parking Area,Small personal certificate,2026-02-07,student0138@example.com,Active
+LF0139,Lost,Certificate,Documents,Unknown,Green,Parking Area,Small  certificate,2026-02-16,student0139@example.com,Active
+LF0140,Found,Lunch Box,Other,HP,Black,Parking Area,Small college lunch box,2026-09-14,student0140@example.com,Active
+LF0141,Lost,Tablet,Electronics,Nike,Blue,Auditorium,Large college tablet,2026-08-13,student0141@example.com,Active
+LF0142,Found,Cap,Clothing,Sony,White,Auditorium,Small  cap,2026-01-27,student0142@example.com,Active
+LF0143,Lost,Certificate,Documents,HP,Grey,Computer Lab,everyday certificate,2026-10-26,student0143@example.com,Active
+LF0144,Found,Water Bottle,Other,HP,White,Sports Ground,Large personal water bottle,2026-06-18,student0144@example.com,Active
+LF0145,Lost,Certificate,Documents,Nike,Red,Classroom,Medium everyday certificate,2026-06-24,student0145@example.com,Returned
+LF0146,Lost,Earbuds,Electronics,Milton,Black,Auditorium,Medium  earbuds,2026-10-04,student0146@example.com,Active
+LF0147,Lost,Watch,Accessories,Nike,Black,Sports Ground,Large everyday watch,2026-03-26,student0147@example.com,Claimed
+LF0148,Found,Umbrella,Clothing,Dell,Red,Computer Lab,everyday umbrella,2026-08-18,student0148@example.com,Claimed
+LF0149,Found,Folder,Documents,Puma,Green,Main Gate,Medium everyday folder,2026-05-25,student0149@example.com,Active
+LF0150,Found,ID Card,Documents,Samsung,White,Computer Lab,Small everyday id card,2026-10-11,student0150@example.com,Claimed
+LF0151,Lost,Book,Documents,Dell,Pink,Auditorium,Small  book,2026-02-16,student0151@example.com,Claimed
+LF0152,Found,Charger,Electronics,Sony,Red,Library,Large personal charger,2026-02-11,student0152@example.com,Active
+LF0153,Lost,Notebook,Documents,HP,Pink,Parking Area,Small personal notebook,2026-08-30,student0153@example.com,Active
+LF0154,Lost,Earbuds,Electronics,Unknown,Green,Canteen,Large everyday earbuds,2026-10-08,student0154@example.com,Claimed
+LF0155,Lost,ID Card,Documents,Samsung,White,Parking Area,Small everyday id card,2026-08-23,student0155@example.com,Active
+LF0156,Found,Keychain,Accessories,Dell,Green,Main Gate,Small college keychain,2026-06-30,student0156@example.com,Active
+LF0157,Lost,Tablet,Electronics,Apple,Green,Auditorium,Large personal tablet,2026-08-29,student0157@example.com,Active
+LF0158,Found,ID Card,Documents,Unknown,Grey,Main Gate,Small college id card,2026-02-23,student0158@example.com,Active
+LF0159,Lost,Calculator,Other,Nike,Blue,Main Gate,Small  calculator,2026-08-26,student0159@example.com,Claimed
+LF0160,Lost,Earbuds,Electronics,Apple,Grey,Computer Lab,earbuds,2026-04-13,student0160@example.com,Active
+LF0161,Lost,ID Card,Documents,Sony,Brown,Canteen,Large  id card,2026-01-25,student0161@example.com,Active
+LF0162,Found,Cap,Clothing,Nike,Pink,Auditorium,Large personal cap,2026-04-06,student0162@example.com,Active
+LF0163,Found,Jacket,Clothing,Milton,Brown,Auditorium,Small personal jacket,2026-04-03,student0163@example.com,Active
+LF0164,Found,Certificate,Documents,HP,Pink,Auditorium,personal certificate,2026-08-07,student0164@example.com,Active
+LF0165,Found,Folder,Documents,Samsung,Green,Auditorium,Medium personal folder,2026-01-30,student0165@example.com,Active
+LF0166,Found,Bag,Accessories,Dell,Grey,Auditorium,personal bag,2026-02-04,student0166@example.com,Active
+LF0167,Found,Lunch Box,Other,Nike,White,Seminar Hall,Medium college lunch box,2026-07-10,student0167@example.com,Returned
+LF0168,Found,Scarf,Clothing,Apple,Blue,Parking Area,personal scarf,2026-02-28,student0168@example.com,Active
+LF0169,Found,Certificate,Documents,Nike,Red,Canteen,Medium personal certificate,2026-05-27,student0169@example.com,Active
+LF0170,Found,Hoodie,Clothing,Sony,White,Hostel,Large college hoodie,2026-06-13,student0170@example.com,Returned
+LF0171,Found,Watch,Accessories,Dell,Blue,Classroom,personal watch,2026-03-04,student0171@example.com,Active
+LF0172,Found,Folder,Documents,HP,White,Canteen,Large  folder,2026-10-10,student0172@example.com,Active
+LF0173,Found,Umbrella,Clothing,Samsung,Blue,Auditorium,Small  umbrella,2026-10-22,student0173@example.com,Claimed
+LF0174,Found,Umbrella,Clothing,Unknown,Blue,Main Gate,personal umbrella,2026-10-10,student0174@example.com,Active
+LF0175,Lost,Tablet,Electronics,Sony,Red,Auditorium,Large personal tablet,2026-03-24,student0175@example.com,Active
+LF0176,Found,Notebook,Documents,Unknown,White,Hostel,Medium everyday notebook,2026-06-05,student0176@example.com,Active
+LF0177,Found,Bag,Accessories,Apple,Black,Canteen,Small college bag,2026-10-16,student0177@example.com,Claimed
+LF0178,Found,Bag,Accessories,Nike,Brown,Computer Lab,everyday bag,2026-01-16,student0178@example.com,Active
+LF0179,Found,Scarf,Clothing,HP,Pink,Sports Ground,scarf,2026-01-31,student0179@example.com,Active
+LF0180,Lost,Keychain,Accessories,Sony,Green,Main Gate,Large personal keychain,2026-06-13,student0180@example.com,Active
+LF0181,Found,Notebook,Documents,Dell,Blue,Canteen,Small college notebook,2026-08-19,student0181@example.com,Active
+LF0182,Found,Umbrella,Clothing,Sony,Grey,Classroom,Medium  umbrella,2026-03-23,student0182@example.com,Active
+LF0183,Found,Tiffin,Other,Apple,White,Sports Ground,everyday tiffin,2026-09-12,student0183@example.com,Claimed
+LF0184,Found,Bag,Accessories,Nike,Pink,Computer Lab,Small personal bag,2026-05-25,student0184@example.com,Active
+LF0185,Found,Hoodie,Clothing,Sony,Black,Sports Ground,Small everyday hoodie,2026-07-26,student0185@example.com,Active
+LF0186,Found,Folder,Documents,Nike,Brown,Seminar Hall,Small everyday folder,2026-09-16,student0186@example.com,Active
+LF0187,Found,Charger,Electronics,Milton,Grey,Main Gate,Medium  charger,2026-06-23,student0187@example.com,Claimed
+LF0188,Lost,Water Bottle,Other,Nike,Pink,Main Gate,Medium college water bottle,2026-06-20,student0188@example.com,Active
+LF0189,Lost,Calculator,Other,Unknown,Grey,Hostel,college calculator,2026-06-03,student0189@example.com,Active
+LF0190,Found,Jacket,Clothing,Puma,Brown,Library,college jacket,2026-02-26,student0190@example.com,Active
+LF0191,Lost,Bottle,Other,Nike,Blue,Hostel,everyday bottle,2026-10-26,student0191@example.com,Active
+LF0192,Lost,Wallet,Accessories,Sony,Green,Main Gate,everyday wallet,2026-08-14,student0192@example.com,Active
+LF0193,Found,Umbrella,Clothing,HP,Red,Hostel,Large  umbrella,2026-02-01,student0193@example.com,Returned
+LF0194,Found,Tiffin,Other,Milton,Grey,Hostel,Large college tiffin,2026-08-24,student0194@example.com,Returned
+LF0195,Lost,Tiffin,Other,Milton,Brown,Classroom,Large college tiffin,2026-05-23,student0195@example.com,Returned
+LF0196,Found,Sunglasses,Accessories,Boat,Brown,Canteen,sunglasses,2026-10-14,student0196@example.com,Active
+LF0197,Found,Notebook,Documents,Sony,Pink,Computer Lab,everyday notebook,2026-02-10,student0197@example.com,Active
+LF0198,Found,Bag,Accessories,HP,White,Seminar Hall,Medium everyday bag,2026-05-20,student0198@example.com,Returned
+LF0199,Lost,Tablet,Electronics,Samsung,Green,Auditorium,personal tablet,2026-01-27,student0199@example.com,Active
+LF0200,Lost,Wallet,Accessories,Nike,Red,Computer Lab,Large college wallet,2026-09-01,student0200@example.com,Active
+LF0201,Lost,Phone,Electronics,HP,Green,Main Gate,Small  phone,2026-01-20,student0201@example.com,Active
+LF0202,Found,Hoodie,Clothing,Boat,White,Auditorium,Large  hoodie,2026-01-05,student0202@example.com,Claimed
+LF0203,Found,Bottle,Other,Milton,Pink,Computer Lab,Medium personal bottle,2026-03-10,student0203@example.com,Claimed
+LF0204,Found,Notebook,Documents,Apple,Grey,Computer Lab,Medium everyday notebook,2026-04-06,student0204@example.com,Active
+LF0205,Found,Tiffin,Other,Puma,White,Main Gate,Medium  tiffin,2026-02-14,student0205@example.com,Active
+LF0206,Lost,Notebook,Documents,Nike,Brown,Auditorium,Large personal notebook,2026-05-01,student0206@example.com,Active
+LF0207,Lost,Certificate,Documents,Nike,Brown,Main Gate,college certificate,2026-03-02,student0207@example.com,Active
+LF0208,Found,Earbuds,Electronics,HP,Pink,Main Gate,college earbuds,2026-04-23,student0208@example.com,Active
+LF0209,Found,Umbrella,Clothing,Dell,White,Hostel,college umbrella,2026-04-22,student0209@example.com,Claimed
+LF0210,Lost,Tablet,Electronics,Milton,Red,Seminar Hall,Medium everyday tablet,2026-10-08,student0210@example.com,Active
+LF0211,Found,Folder,Documents,Unknown,Pink,Canteen,personal folder,2026-04-16,student0211@example.com,Active
+LF0212,Found,Hoodie,Clothing,Milton,Pink,Computer Lab,Small  hoodie,2026-01-30,student0212@example.com,Active
+LF0213,Lost,ID Card,Documents,Puma,Grey,Canteen,Small personal id card,2026-01-24,student0213@example.com,Active
+LF0214,Found,Jacket,Clothing,Puma,Grey,Sports Ground,jacket,2026-03-11,student0214@example.com,Active
+LF0215,Lost,Jacket,Clothing,Samsung,Blue,Hostel,everyday jacket,2026-06-28,student0215@example.com,Active
+LF0216,Lost,Wallet,Accessories,Milton,Green,Hostel,everyday wallet,2026-08-26,student0216@example.com,Returned
+LF0217,Found,Sunglasses,Accessories,Samsung,Black,Sports Ground,Small everyday sunglasses,2026-04-07,student0217@example.com,Active
+LF0218,Lost,Wallet,Accessories,Unknown,Black,Classroom,Small  wallet,2026-08-17,student0218@example.com,Active
+LF0219,Lost,Hoodie,Clothing,HP,Brown,Classroom,Large college hoodie,2026-01-29,student0219@example.com,Claimed
+LF0220,Lost,Keychain,Accessories,Dell,Green,Computer Lab,Large personal keychain,2026-09-24,student0220@example.com,Returned
+LF0221,Lost,Bottle,Other,Milton,Pink,Library,Large  bottle,2026-08-07,student0221@example.com,Active
+LF0222,Found,Calculator,Other,Puma,Blue,Hostel,everyday calculator,2026-06-03,student0222@example.com,Active
+LF0223,Lost,Keychain,Accessories,Milton,Green,Sports Ground,Medium  keychain,2026-01-30,student0223@example.com,Claimed
+LF0224,Lost,Keychain,Accessories,Nike,Grey,Canteen,Medium personal keychain,2026-02-10,student0224@example.com,Active
+LF0225,Lost,Book,Documents,Unknown,Red,Parking Area,Medium college book,2026-04-07,student0225@example.com,Claimed
+LF0226,Lost,ID Card,Documents,Nike,Red,Seminar Hall,Medium  id card,2026-03-02,student0226@example.com,Returned
+LF0227,Found,Bag,Accessories,Nike,Grey,Computer Lab,Large college bag,2026-07-14,student0227@example.com,Claimed
+LF0228,Found,Tiffin,Other,Sony,Red,Auditorium,Large  tiffin,2026-08-29,student0228@example.com,Active
+LF0229,Lost,Tablet,Electronics,Boat,Green,Computer Lab,Medium everyday tablet,2026-01-09,student0229@example.com,Active
+LF0230,Found,Notebook,Documents,Nike,Grey,Computer Lab,notebook,2026-05-06,student0230@example.com,Active
+LF0231,Found,Hoodie,Clothing,Nike,Blue,Hostel,Small personal hoodie,2026-10-07,student0231@example.com,Active
+LF0232,Lost,Phone,Electronics,Samsung,Blue,Library,Medium  phone,2026-04-29,student0232@example.com,Active
+LF0233,Found,ID Card,Documents,Apple,Green,Library,Small college id card,2026-01-09,student0233@example.com,Active
+LF0234,Lost,Calculator,Other,HP,White,Canteen,Medium everyday calculator,2026-08-09,student0234@example.com,Active
+LF0235,Found,Bag,Accessories,Puma,White,Auditorium,bag,2026-05-17,student0235@example.com,Claimed
+LF0236,Lost,Lunch Box,Other,Apple,White,Sports Ground,lunch box,2026-02-11,student0236@example.com,Active
+LF0237,Lost,Tiffin,Other,Samsung,Pink,Sports Ground,Large personal tiffin,2026-03-29,student0237@example.com,Active
+LF0238,Lost,Water Bottle,Other,Nike,Brown,Library,Small college water bottle,2026-10-18,student0238@example.com,Active
+LF0239,Lost,Bottle,Other,Apple,Red,Seminar Hall,Medium  bottle,2026-06-11,student0239@example.com,Active
+LF0240,Lost,Earbuds,Electronics,Puma,Grey,Sports Ground,Medium personal earbuds,2026-10-18,student0240@example.com,Active
+LF0241,Lost,Calculator,Other,Samsung,Grey,Seminar Hall,college calculator,2026-04-29,student0241@example.com,Active
+LF0242,Found,Earbuds,Electronics,Milton,Green,Sports Ground,Medium  earbuds,2026-07-02,student0242@example.com,Active
+LF0243,Found,Tablet,Electronics,Samsung,Brown,Main Gate,everyday tablet,2026-02-07,student0243@example.com,Claimed
+LF0244,Found,Scarf,Clothing,Boat,Pink,Auditorium,Large personal scarf,2026-01-03,student0244@example.com,Active
+LF0245,Lost,Wallet,Accessories,Milton,Green,Canteen,Small personal wallet,2026-10-13,student0245@example.com,Active
+LF0246,Lost,Folder,Documents,Puma,Black,Computer Lab,folder,2026-06-16,student0246@example.com,Active
+LF0247,Lost,Tablet,Electronics,Puma,Blue,Main Gate,Large college tablet,2026-03-28,student0247@example.com,Active
+LF0248,Lost,Book,Documents,Boat,Green,Computer Lab,personal book,2026-08-11,student0248@example.com,Active
+LF0249,Lost,Certificate,Documents,Unknown,Red,Parking Area,Small everyday certificate,2026-09-11,student0249@example.com,Active
+LF0250,Found,ID Card,Documents,Sony,Pink,Auditorium,everyday id card,2026-07-14,student0250@example.com,Active
+LF0251,Lost,Certificate,Documents,Puma,Grey,Computer Lab,everyday certificate,2026-04-01,student0251@example.com,Active
+LF0252,Found,Book,Documents,Sony,White,Seminar Hall,Medium everyday book,2026-07-21,student0252@example.com,Claimed
+LF0253,Found,Water Bottle,Other,Nike,Brown,Canteen,water bottle,2026-04-18,student0253@example.com,Returned
+LF0254,Lost,Keychain,Accessories,Puma,Green,Canteen,keychain,2026-03-20,student0254@example.com,Active
+LF0255,Found,Tiffin,Other,Milton,White,Canteen,Medium college tiffin,2026-07-04,student0255@example.com,Active
+LF0256,Lost,Bag,Accessories,Sony,Green,Canteen,Small personal bag,2026-07-24,student0256@example.com,Active
+LF0257,Lost,Notebook,Documents,Nike,Blue,Auditorium,Small  notebook,2026-07-20,student0257@example.com,Active
+LF0258,Found,Earbuds,Electronics,Samsung,Blue,Auditorium,Large college earbuds,2026-02-13,student0258@example.com,Returned
+LF0259,Found,Hoodie,Clothing,Nike,Pink,Auditorium,Small college hoodie,2026-02-19,student0259@example.com,Active
+LF0260,Lost,Phone,Electronics,HP,Red,Hostel,Medium everyday phone,2026-02-25,student0260@example.com,Claimed
+LF0261,Found,Folder,Documents,Puma,Blue,Main Gate,folder,2026-04-29,student0261@example.com,Returned
+LF0262,Lost,Tablet,Electronics,Puma,Black,Classroom,Medium college tablet,2026-08-08,student0262@example.com,Active
+LF0263,Lost,Tablet,Electronics,HP,Grey,Auditorium,Medium  tablet,2026-10-02,student0263@example.com,Claimed
+LF0264,Found,Earbuds,Electronics,Unknown,Green,Seminar Hall,personal earbuds,2026-06-10,student0264@example.com,Active
+LF0265,Found,Certificate,Documents,Unknown,White,Main Gate,Large personal certificate,2026-06-02,student0265@example.com,Active
+LF0266,Lost,Keychain,Accessories,Milton,Green,Sports Ground,Medium  keychain,2026-03-14,student0266@example.com,Active
+LF0267,Found,Hoodie,Clothing,Milton,Blue,Parking Area,Large everyday hoodie,2026-03-30,student0267@example.com,Active
+LF0268,Found,Keychain,Accessories,Apple,Pink,Main Gate,Medium  keychain,2026-07-03,student0268@example.com,Active
+LF0269,Found,Bottle,Other,Puma,Pink,Parking Area,Medium personal bottle,2026-09-09,student0269@example.com,Active
+LF0270,Lost,Water Bottle,Other,Dell,Brown,Main Gate,water bottle,2026-05-21,student0270@example.com,Active
+LF0271,Lost,Bottle,Other,Milton,Grey,Hostel,Small  bottle,2026-05-18,student0271@example.com,Active
+LF0272,Found,Lunch Box,Other,Boat,Black,Parking Area,Large college lunch box,2026-05-07,student0272@example.com,Active
+LF0273,Lost,Charger,Electronics,Dell,Grey,Seminar Hall,everyday charger,2026-05-02,student0273@example.com,Claimed
+LF0274,Lost,Lunch Box,Other,Unknown,Grey,Hostel,Large everyday lunch box,2026-01-31,student0274@example.com,Claimed
+LF0275,Found,Certificate,Documents,Samsung,Blue,Sports Ground,Small college certificate,2026-09-21,student0275@example.com,Active
+LF0276,Lost,Watch,Accessories,Dell,Green,Parking Area,Medium college watch,2026-06-14,student0276@example.com,Active
+LF0277,Found,Cap,Clothing,Puma,Brown,Auditorium,cap,2026-02-17,student0277@example.com,Active
+LF0278,Lost,Folder,Documents,Nike,Grey,Canteen,everyday folder,2026-02-17,student0278@example.com,Claimed
+LF0279,Found,Hoodie,Clothing,Sony,Blue,Seminar Hall,college hoodie,2026-05-26,student0279@example.com,Active
+LF0280,Lost,Phone,Electronics,Apple,White,Main Gate,phone,2026-08-24,student0280@example.com,Active
+LF0281,Lost,Charger,Electronics,Boat,Blue,Computer Lab,Small college charger,2026-03-09,student0281@example.com,Returned
+LF0282,Found,ID Card,Documents,Apple,Green,Computer Lab,Medium  id card,2026-03-26,student0282@example.com,Active
+LF0283,Lost,Phone,Electronics,HP,Red,Hostel,personal phone,2026-02-09,student0283@example.com,Active
+LF0284,Lost,Earbuds,Electronics,HP,Pink,Canteen,Medium  earbuds,2026-08-05,student0284@example.com,Returned
+LF0285,Lost,Phone,Electronics,HP,Green,Main Gate,Medium personal phone,2026-06-03,student0285@example.com,Active
+LF0286,Lost,Bottle,Other,Nike,Grey,Classroom,Medium  bottle,2026-03-26,student0286@example.com,Active
+LF0287,Lost,Tiffin,Other,HP,White,Seminar Hall,college tiffin,2026-02-21,student0287@example.com,Active
+LF0288,Lost,Scarf,Clothing,Dell,Brown,Library,Large everyday scarf,2026-02-13,student0288@example.com,Active
+LF0289,Lost,Bottle,Other,Apple,Red,Parking Area,personal bottle,2026-06-01,student0289@example.com,Active
+LF0290,Lost,Sunglasses,Accessories,Sony,Grey,Main Gate,sunglasses,2026-01-07,student0290@example.com,Active
+LF0291,Lost,Folder,Documents,Apple,White,Library,Large everyday folder,2026-02-07,student0291@example.com,Claimed
+LF0292,Found,Phone,Electronics,Puma,Green,Sports Ground,Small everyday phone,2026-09-14,student0292@example.com,Active
+LF0293,Found,ID Card,Documents,HP,Grey,Sports Ground,Small college id card,2026-04-15,student0293@example.com,Active
+LF0294,Lost,Hoodie,Clothing,Samsung,Pink,Seminar Hall,Small college hoodie,2026-08-11,student0294@example.com,Active
+LF0295,Lost,Wallet,Accessories,HP,Pink,Auditorium,Large everyday wallet,2026-01-06,student0295@example.com,Active
+LF0296,Found,Notebook,Documents,Apple,Grey,Sports Ground,Large personal notebook,2026-03-02,student0296@example.com,Active
+LF0297,Lost,Folder,Documents,Sony,Black,Parking Area,Medium college folder,2026-09-19,student0297@example.com,Active
+LF0298,Lost,Keychain,Accessories,Dell,Black,Library,Small everyday keychain,2026-03-01,student0298@example.com,Claimed
+LF0299,Found,Charger,Electronics,HP,Black,Hostel,everyday charger,2026-03-18,student0299@example.com,Active
+LF0300,Found,Notebook,Documents,Boat,White,Seminar Hall,Large personal notebook,2026-06-13,student0300@example.com,Returned
+LF0301,Lost,Water Bottle,Other,Apple,Green,Canteen,college water bottle,2026-09-22,student0301@example.com,Active
+LF0302,Lost,Certificate,Documents,Sony,Red,Computer Lab,Large everyday certificate,2026-01-05,student0302@example.com,Active
+LF0303,Found,Scarf,Clothing,Milton,Red,Main Gate,Small  scarf,2026-04-11,student0303@example.com,Returned
+LF0304,Found,Laptop,Electronics,Sony,Black,Sports Ground,Large personal laptop,2026-01-05,student0304@example.com,Active
+LF0305,Lost,Bag,Accessories,HP,Brown,Canteen,Small everyday bag,2026-01-31,student0305@example.com,Active
+LF0306,Found,Tiffin,Other,Unknown,White,Hostel,Medium  tiffin,2026-02-13,student0306@example.com,Active
+LF0307,Lost,Tablet,Electronics,Dell,Brown,Computer Lab,Large  tablet,2026-03-08,student0307@example.com,Active
+LF0308,Found,Certificate,Documents,Dell,Blue,Seminar Hall,Small everyday certificate,2026-02-08,student0308@example.com,Active
+LF0309,Found,Laptop,Electronics,Samsung,Grey,Classroom,college laptop,2026-07-28,student0309@example.com,Active
+LF0310,Lost,Scarf,Clothing,Unknown,Black,Classroom,Large everyday scarf,2026-06-05,student0310@example.com,Active
+LF0311,Found,Laptop,Electronics,Boat,Brown,Main Gate,Small  laptop,2026-01-26,student0311@example.com,Active
+LF0312,Lost,Umbrella,Clothing,HP,White,Library,Small everyday umbrella,2026-02-22,student0312@example.com,Active
+LF0313,Found,Watch,Accessories,Unknown,Brown,Canteen,Small personal watch,2026-02-13,student0313@example.com,Active
+LF0314,Lost,Sunglasses,Accessories,Samsung,Black,Parking Area,Small everyday sunglasses,2026-06-19,student0314@example.com,Active
+LF0315,Found,Tiffin,Other,Puma,Blue,Auditorium,Medium everyday tiffin,2026-07-15,student0315@example.com,Active
+LF0316,Found,Certificate,Documents,Unknown,Red,Computer Lab,certificate,2026-01-18,student0316@example.com,Claimed
+LF0317,Lost,Tiffin,Other,HP,Green,Classroom,Medium personal tiffin,2026-07-16,student0317@example.com,Active
+LF0318,Found,Scarf,Clothing,Sony,Grey,Sports Ground,Large everyday scarf,2026-09-06,student0318@example.com,Active
+LF0319,Lost,Earbuds,Electronics,Apple,Pink,Hostel,Large everyday earbuds,2026-05-24,student0319@example.com,Active
+LF0320,Lost,Wallet,Accessories,Milton,Black,Classroom,college wallet,2026-05-17,student0320@example.com,Active
+LF0321,Lost,Watch,Accessories,Unknown,Black,Auditorium,Medium everyday watch,2026-07-03,student0321@example.com,Active
+LF0322,Found,Umbrella,Clothing,Samsung,Black,Classroom,Medium personal umbrella,2026-01-20,student0322@example.com,Active
+LF0323,Lost,Tiffin,Other,HP,Grey,Main Gate,Large personal tiffin,2026-04-14,student0323@example.com,Active
+LF0324,Lost,Laptop,Electronics,Sony,White,Auditorium,personal laptop,2026-09-27,student0324@example.com,Claimed
+LF0325,Found,Certificate,Documents,Puma,Pink,Auditorium,Medium college certificate,2026-03-22,student0325@example.com,Active
+LF0326,Lost,Bag,Accessories,HP,Blue,Library,personal bag,2026-05-31,student0326@example.com,Active
+LF0327,Found,Bag,Accessories,Unknown,White,Parking Area,Medium college bag,2026-04-24,student0327@example.com,Returned
+LF0328,Found,Laptop,Electronics,Samsung,Grey,Parking Area,Small college laptop,2026-03-27,student0328@example.com,Returned
+LF0329,Lost,Watch,Accessories,Apple,Black,Sports Ground,watch,2026-02-25,student0329@example.com,Active
+LF0330,Found,Sunglasses,Accessories,Milton,Green,Canteen,everyday sunglasses,2026-06-29,student0330@example.com,Claimed
+LF0331,Lost,Sunglasses,Accessories,Boat,Black,Auditorium,Large personal sunglasses,2026-01-18,student0331@example.com,Claimed
+LF0332,Lost,Earbuds,Electronics,Samsung,White,Auditorium,personal earbuds,2026-03-24,student0332@example.com,Claimed
+LF0333,Found,Hoodie,Clothing,Sony,Red,Classroom,college hoodie,2026-02-21,student0333@example.com,Active
+LF0334,Lost,Certificate,Documents,Unknown,Pink,Main Gate,Small college certificate,2026-07-21,student0334@example.com,Active
+LF0335,Lost,Charger,Electronics,Dell,White,Library,Medium everyday charger,2026-09-03,student0335@example.com,Active
+LF0336,Found,ID Card,Documents,Puma,Pink,Parking Area,Large personal id card,2026-06-07,student0336@example.com,Claimed
+LF0337,Lost,Tiffin,Other,Sony,Blue,Parking Area,Small college tiffin,2026-07-15,student0337@example.com,Active
+LF0338,Found,Cap,Clothing,Unknown,Black,Main Gate,Small personal cap,2026-05-18,student0338@example.com,Active
+LF0339,Found,Folder,Documents,Milton,Black,Sports Ground,folder,2026-04-27,student0339@example.com,Returned
+LF0340,Found,Lunch Box,Other,Apple,Blue,Canteen,everyday lunch box,2026-07-22,student0340@example.com,Active
+LF0341,Lost,Watch,Accessories,Samsung,Green,Classroom,Medium college watch,2026-08-05,student0341@example.com,Active
+LF0342,Lost,ID Card,Documents,Milton,Grey,Computer Lab,personal id card,2026-07-23,student0342@example.com,Active
+LF0343,Found,Bottle,Other,HP,White,Canteen,Small college bottle,2026-03-18,student0343@example.com,Active
+LF0344,Found,Calculator,Other,Unknown,Pink,Library,Medium college calculator,2026-09-06,student0344@example.com,Active
+LF0345,Found,Hoodie,Clothing,Dell,Black,Parking Area,Large college hoodie,2026-06-19,student0345@example.com,Active
+LF0346,Found,Earbuds,Electronics,Samsung,Red,Main Gate,Large  earbuds,2026-09-09,student0346@example.com,Active
+LF0347,Found,Certificate,Documents,Dell,Pink,Classroom,certificate,2026-02-15,student0347@example.com,Active
+LF0348,Lost,Calculator,Other,Samsung,Brown,Hostel,everyday calculator,2026-03-23,student0348@example.com,Active
+LF0349,Lost,Bottle,Other,Apple,Red,Library,personal bottle,2026-04-13,student0349@example.com,Active
+LF0350,Found,Notebook,Documents,Milton,Green,Canteen,Small everyday notebook,2026-08-26,student0350@example.com,Active
+LF0351,Found,Book,Documents,Unknown,Grey,Auditorium,Medium college book,2026-08-31,student0351@example.com,Active
+LF0352,Lost,Earbuds,Electronics,Unknown,Red,Classroom,Medium everyday earbuds,2026-03-25,student0352@example.com,Active
+LF0353,Lost,Book,Documents,Nike,Blue,Main Gate,Small everyday book,2026-01-05,student0353@example.com,Claimed
+LF0354,Found,Folder,Documents,Puma,Green,Auditorium,college folder,2026-05-21,student0354@example.com,Active
+LF0355,Found,Sunglasses,Accessories,Unknown,White,Library,Large college sunglasses,2026-07-23,student0355@example.com,Active
+LF0356,Found,ID Card,Documents,Sony,Brown,Computer Lab,Large everyday id card,2026-05-22,student0356@example.com,Active
+LF0357,Lost,Bag,Accessories,Sony,Blue,Library,college bag,2026-07-26,student0357@example.com,Claimed
+LF0358,Found,Book,Documents,Unknown,Red,Auditorium,Medium  book,2026-01-19,student0358@example.com,Active
+LF0359,Found,Folder,Documents,HP,Brown,Canteen,everyday folder,2026-10-13,student0359@example.com,Claimed
+LF0360,Lost,Folder,Documents,Samsung,Red,Auditorium,Medium college folder,2026-06-21,student0360@example.com,Returned
+LF0361,Found,Scarf,Clothing,Nike,White,Parking Area,Small personal scarf,2026-05-31,student0361@example.com,Active
+LF0362,Lost,Hoodie,Clothing,Milton,Brown,Sports Ground,Small everyday hoodie,2026-07-15,student0362@example.com,Claimed
+LF0363,Found,Watch,Accessories,Nike,Blue,Auditorium,Medium personal watch,2026-10-19,student0363@example.com,Active
+LF0364,Lost,Scarf,Clothing,Apple,Pink,Computer Lab,Medium everyday scarf,2026-01-30,student0364@example.com,Active
+LF0365,Found,Lunch Box,Other,HP,Green,Sports Ground,lunch box,2026-02-15,student0365@example.com,Claimed
+LF0366,Lost,Cap,Clothing,Sony,Black,Auditorium,Medium personal cap,2026-04-13,student0366@example.com,Active
+LF0367,Lost,Laptop,Electronics,Boat,Blue,Canteen,college laptop,2026-06-26,student0367@example.com,Active
+LF0368,Lost,Wallet,Accessories,Nike,Grey,Sports Ground,Medium college wallet,2026-05-29,student0368@example.com,Active
+LF0369,Lost,Scarf,Clothing,Apple,Red,Classroom,Medium everyday scarf,2026-07-26,student0369@example.com,Active
+LF0370,Lost,Tablet,Electronics,Puma,Brown,Hostel,Small personal tablet,2026-01-20,student0370@example.com,Active
+LF0371,Lost,Phone,Electronics,Nike,Green,Canteen,Large  phone,2026-08-02,student0371@example.com,Active
+LF0372,Lost,Watch,Accessories,Milton,Brown,Seminar Hall,Medium  watch,2026-02-21,student0372@example.com,Active
+LF0373,Lost,Tablet,Electronics,Nike,Red,Seminar Hall,Medium college tablet,2026-02-24,student0373@example.com,Active
+LF0374,Found,Lunch Box,Other,HP,Black,Hostel,everyday lunch box,2026-06-01,student0374@example.com,Active
+LF0375,Lost,Scarf,Clothing,Samsung,Pink,Main Gate,Small personal scarf,2026-02-15,student0375@example.com,Active
+LF0376,Lost,Earbuds,Electronics,Boat,Pink,Library,Small everyday earbuds,2026-06-01,student0376@example.com,Active
+LF0377,Found,Earbuds,Electronics,Puma,White,Canteen,Small personal earbuds,2026-06-10,student0377@example.com,Claimed
+LF0378,Found,Watch,Accessories,Unknown,Brown,Canteen,Large college watch,2026-08-13,student0378@example.com,Active
+LF0379,Found,Wallet,Accessories,Boat,Green,Parking Area,everyday wallet,2026-08-22,student0379@example.com,Active
+LF0380,Lost,Laptop,Electronics,Samsung,Green,Seminar Hall,laptop,2026-03-23,student0380@example.com,Returned
+LF0381,Found,Bag,Accessories,HP,Pink,Parking Area,Small  bag,2026-01-15,student0381@example.com,Claimed
+LF0382,Lost,Jacket,Clothing,Apple,Red,Auditorium,Small  jacket,2026-06-10,student0382@example.com,Active
+LF0383,Found,Sunglasses,Accessories,HP,Black,Library,Medium  sunglasses,2026-07-17,student0383@example.com,Active
+LF0384,Lost,Hoodie,Clothing,Dell,Grey,Computer Lab,Small everyday hoodie,2026-06-14,student0384@example.com,Claimed
+LF0385,Found,Tiffin,Other,Nike,Pink,Seminar Hall,personal tiffin,2026-02-10,student0385@example.com,Claimed
+LF0386,Found,Cap,Clothing,Apple,White,Sports Ground,personal cap,2026-09-12,student0386@example.com,Active
+LF0387,Lost,Bottle,Other,Milton,Red,Parking Area,Large college bottle,2026-06-05,student0387@example.com,Claimed
+LF0388,Found,Laptop,Electronics,Sony,Pink,Canteen,Small everyday laptop,2026-08-31,student0388@example.com,Active
+LF0389,Found,Earbuds,Electronics,Milton,Grey,Canteen,Small everyday earbuds,2026-05-30,student0389@example.com,Claimed
+LF0390,Found,Hoodie,Clothing,Dell,White,Sports Ground,Medium  hoodie,2026-04-11,student0390@example.com,Active
+LF0391,Lost,Keychain,Accessories,Unknown,White,Parking Area,everyday keychain,2026-01-24,student0391@example.com,Claimed
+LF0392,Lost,Jacket,Clothing,Unknown,Pink,Hostel,Medium everyday jacket,2026-08-10,student0392@example.com,Active
+LF0393,Found,Wallet,Accessories,Milton,Green,Sports Ground,Medium college wallet,2026-06-14,student0393@example.com,Active
+LF0394,Found,Scarf,Clothing,HP,Green,Seminar Hall,Large college scarf,2026-03-10,student0394@example.com,Active
+LF0395,Lost,Lunch Box,Other,Sony,Blue,Main Gate,Large personal lunch box,2026-05-29,student0395@example.com,Active
+LF0396,Found,Folder,Documents,Milton,Brown,Sports Ground,Small personal folder,2026-08-02,student0396@example.com,Active
+LF0397,Lost,Charger,Electronics,Dell,Brown,Main Gate,Large college charger,2026-01-29,student0397@example.com,Active
+LF0398,Found,Wallet,Accessories,Apple,Grey,Parking Area,Small everyday wallet,2026-10-05,student0398@example.com,Active
+LF0399,Lost,Tiffin,Other,Apple,Green,Sports Ground,college tiffin,2026-05-28,student0399@example.com,Active
+LF0400,Lost,Water Bottle,Other,Unknown,Pink,Classroom,Large everyday water bottle,2026-04-14,student0400@example.com,Active
+LF0401,Found,Keychain,Accessories,HP,Blue,Hostel,Small  keychain,2026-02-08,student0401@example.com,Active
+LF0402,Found,Charger,Electronics,HP,Brown,Library,Large  charger,2026-03-08,student0402@example.com,Active
+LF0403,Lost,Wallet,Accessories,Unknown,Brown,Parking Area,Large personal wallet,2026-01-27,student0403@example.com,Returned
+LF0404,Lost,Folder,Documents,Samsung,Blue,Sports Ground,personal folder,2026-09-24,student0404@example.com,Returned
+LF0405,Lost,Notebook,Documents,Sony,Brown,Classroom,personal notebook,2026-06-19,student0405@example.com,Active
+LF0406,Found,Earbuds,Electronics,Apple,Grey,Sports Ground,Small  earbuds,2026-05-05,student0406@example.com,Active
+LF0407,Found,Folder,Documents,Sony,Pink,Parking Area,Small college folder,2026-09-22,student0407@example.com,Active
+LF0408,Lost,Keychain,Accessories,Milton,Black,Canteen,Medium everyday keychain,2026-03-27,student0408@example.com,Returned
+LF0409,Lost,Jacket,Clothing,Samsung,Blue,Library,college jacket,2026-08-11,student0409@example.com,Active
+LF0410,Lost,Phone,Electronics,Milton,White,Seminar Hall,Medium college phone,2026-05-09,student0410@example.com,Active
+LF0411,Found,Cap,Clothing,Sony,Black,Sports Ground,Small personal cap,2026-08-10,student0411@example.com,Active
+LF0412,Lost,Water Bottle,Other,Sony,White,Computer Lab,Large personal water bottle,2026-02-07,student0412@example.com,Active
+LF0413,Found,Book,Documents,Nike,Blue,Hostel,Medium everyday book,2026-01-16,student0413@example.com,Active
+LF0414,Found,Umbrella,Clothing,Boat,Grey,Library,Medium personal umbrella,2026-03-15,student0414@example.com,Returned
+LF0415,Found,Phone,Electronics,Boat,Red,Auditorium,Medium  phone,2026-02-13,student0415@example.com,Active
+LF0416,Lost,Lunch Box,Other,Dell,White,Main Gate,Small  lunch box,2026-05-10,student0416@example.com,Active
+LF0417,Found,Water Bottle,Other,Samsung,Red,Seminar Hall,college water bottle,2026-05-09,student0417@example.com,Active
+LF0418,Lost,Notebook,Documents,Dell,Grey,Parking Area,college notebook,2026-02-05,student0418@example.com,Active
+LF0419,Lost,Calculator,Other,Sony,Green,Main Gate,Small college calculator,2026-07-06,student0419@example.com,Active
+LF0420,Found,Watch,Accessories,HP,Grey,Parking Area,watch,2026-07-04,student0420@example.com,Active
+LF0421,Found,Certificate,Documents,Unknown,White,Computer Lab,Medium everyday certificate,2026-03-31,student0421@example.com,Active
+LF0422,Lost,ID Card,Documents,Apple,Green,Seminar Hall,Medium personal id card,2026-09-17,student0422@example.com,Claimed
+LF0423,Found,Calculator,Other,Sony,Green,Classroom,Large everyday calculator,2026-03-18,student0423@example.com,Active
+LF0424,Lost,Umbrella,Clothing,Apple,Red,Seminar Hall,Medium everyday umbrella,2026-09-15,student0424@example.com,Active
+LF0425,Lost,Hoodie,Clothing,HP,Pink,Auditorium,Small everyday hoodie,2026-10-17,student0425@example.com,Active
+LF0426,Lost,Hoodie,Clothing,Apple,Red,Hostel,Large  hoodie,2026-04-30,student0426@example.com,Active
+LF0427,Lost,Cap,Clothing,Samsung,Brown,Computer Lab,Medium  cap,2026-06-15,student0427@example.com,Active
+LF0428,Lost,Scarf,Clothing,Dell,Green,Auditorium,Large  scarf,2026-07-12,student0428@example.com,Active
+LF0429,Lost,Umbrella,Clothing,Nike,Blue,Classroom,Small college umbrella,2026-03-13,student0429@example.com,Active
+LF0430,Lost,Watch,Accessories,Dell,Green,Auditorium,Small  watch,2026-03-02,student0430@example.com,Active
+LF0431,Lost,Cap,Clothing,Apple,Red,Library,Medium everyday cap,2026-07-30,student0431@example.com,Active
+LF0432,Lost,Bag,Accessories,Apple,Blue,Computer Lab,Medium  bag,2026-03-17,student0432@example.com,Claimed
+LF0433,Lost,Bottle,Other,Samsung,Red,Parking Area,bottle,2026-05-26,student0433@example.com,Claimed
+LF0434,Found,Watch,Accessories,HP,Brown,Main Gate,Large  watch,2026-10-26,student0434@example.com,Active
+LF0435,Lost,Bottle,Other,HP,White,Library,Medium  bottle,2026-07-17,student0435@example.com,Active
+LF0436,Lost,Bag,Accessories,Milton,White,Canteen,everyday bag,2026-01-20,student0436@example.com,Active
+LF0437,Lost,Bottle,Other,Milton,Green,Auditorium,Small  bottle,2026-08-09,student0437@example.com,Claimed
+LF0438,Found,Sunglasses,Accessories,Samsung,Green,Main Gate,Large  sunglasses,2026-10-22,student0438@example.com,Active
+LF0439,Found,Wallet,Accessories,Puma,Brown,Classroom,Small personal wallet,2026-10-06,student0439@example.com,Active
+LF0440,Lost,Bottle,Other,Dell,Grey,Sports Ground,Large personal bottle,2026-07-12,student0440@example.com,Active
+LF0441,Found,Sunglasses,Accessories,Puma,Grey,Seminar Hall,Large  sunglasses,2026-10-02,student0441@example.com,Active
+LF0442,Found,Sunglasses,Accessories,Milton,Pink,Computer Lab,Large college sunglasses,2026-10-14,student0442@example.com,Active
+LF0443,Lost,Hoodie,Clothing,HP,White,Classroom,college hoodie,2026-08-17,student0443@example.com,Active
+LF0444,Lost,Bottle,Other,Samsung,Blue,Parking Area,personal bottle,2026-01-03,student0444@example.com,Active
+LF0445,Lost,Earbuds,Electronics,Puma,Green,Seminar Hall,Large personal earbuds,2026-01-20,student0445@example.com,Active
+LF0446,Found,Sunglasses,Accessories,Boat,Red,Library,Medium everyday sunglasses,2026-09-23,student0446@example.com,Active
+LF0447,Lost,Earbuds,Electronics,Samsung,Brown,Sports Ground,Large  earbuds,2026-03-22,student0447@example.com,Active
+LF0448,Lost,Umbrella,Clothing,Samsung,Brown,Hostel,Large college umbrella,2026-02-05,student0448@example.com,Active
+LF0449,Lost,Notebook,Documents,Unknown,Black,Computer Lab,Medium  notebook,2026-07-26,student0449@example.com,Active
+LF0450,Lost,Water Bottle,Other,Samsung,Brown,Hostel,Large  water bottle,2026-06-24,student0450@example.com,Active
+LF0451,Found,Umbrella,Clothing,Nike,Pink,Seminar Hall,Small  umbrella,2026-06-23,student0451@example.com,Claimed
+LF0452,Lost,Earbuds,Electronics,Dell,Grey,Sports Ground,Large personal earbuds,2026-04-23,student0452@example.com,Active
+LF0453,Found,Notebook,Documents,Samsung,Blue,Parking Area,Large college notebook,2026-06-25,student0453@example.com,Active
+LF0454,Found,Bag,Accessories,Nike,Red,Classroom,Medium college bag,2026-04-08,student0454@example.com,Active
+LF0455,Lost,Watch,Accessories,HP,White,Canteen,Small  watch,2026-07-02,student0455@example.com,Claimed
+LF0456,Lost,Water Bottle,Other,Unknown,Grey,Parking Area,Large  water bottle,2026-07-10,student0456@example.com,Claimed
+LF0457,Found,Bag,Accessories,HP,Black,Hostel,bag,2026-10-23,student0457@example.com,Active
+LF0458,Found,Water Bottle,Other,Nike,White,Hostel,college water bottle,2026-03-31,student0458@example.com,Active
+LF0459,Lost,Phone,Electronics,Sony,Grey,Seminar Hall,Large everyday phone,2026-02-21,student0459@example.com,Active
+LF0460,Lost,Calculator,Other,Sony,Blue,Parking Area,everyday calculator,2026-06-25,student0460@example.com,Active
+LF0461,Found,Scarf,Clothing,Nike,Blue,Seminar Hall,Medium everyday scarf,2026-05-24,student0461@example.com,Claimed
+LF0462,Lost,Earbuds,Electronics,Dell,Blue,Main Gate,personal earbuds,2026-07-15,student0462@example.com,Active
+LF0463,Found,Sunglasses,Accessories,Milton,Grey,Parking Area,Large college sunglasses,2026-09-22,student0463@example.com,Active
+LF0464,Lost,Bottle,Other,Apple,Red,Computer Lab,personal bottle,2026-03-25,student0464@example.com,Active
+LF0465,Found,Scarf,Clothing,Milton,Brown,Auditorium,Small  scarf,2026-10-14,student0465@example.com,Active
+LF0466,Lost,Earbuds,Electronics,HP,Brown,Auditorium,Large  earbuds,2026-10-03,student0466@example.com,Active
+LF0467,Found,Jacket,Clothing,HP,Blue,Auditorium,jacket,2026-08-26,student0467@example.com,Active
+LF0468,Lost,Phone,Electronics,Sony,Brown,Computer Lab,college phone,2026-06-10,student0468@example.com,Active
+LF0469,Found,Scarf,Clothing,Apple,Blue,Classroom,Large personal scarf,2026-04-05,student0469@example.com,Active
+LF0470,Found,Watch,Accessories,Nike,Black,Library,personal watch,2026-02-02,student0470@example.com,Active
+LF0471,Lost,Earbuds,Electronics,Boat,Red,Classroom,Large  earbuds,2026-07-19,student0471@example.com,Active
+LF0472,Lost,Watch,Accessories,Sony,Pink,Parking Area,Large  watch,2026-07-02,student0472@example.com,Active
+LF0473,Lost,Bag,Accessories,Unknown,Green,Hostel,Large college bag,2026-08-22,student0473@example.com,Active
+LF0474,Lost,Umbrella,Clothing,Boat,Grey,Sports Ground,Large everyday umbrella,2026-08-15,student0474@example.com,Claimed
+LF0475,Lost,ID Card,Documents,Sony,Brown,Parking Area,Small  id card,2026-03-11,student0475@example.com,Active
+LF0476,Lost,Scarf,Clothing,Unknown,Red,Library,Large everyday scarf,2026-05-30,student0476@example.com,Claimed
+LF0477,Found,Umbrella,Clothing,Puma,Green,Classroom,Large personal umbrella,2026-03-25,student0477@example.com,Active
+LF0478,Found,Hoodie,Clothing,Boat,Green,Classroom,Small everyday hoodie,2026-09-30,student0478@example.com,Active
+LF0479,Lost,Keychain,Accessories,Boat,Pink,Classroom,Large personal keychain,2026-08-20,student0479@example.com,Active
+LF0480,Lost,Wallet,Accessories,Boat,Brown,Main Gate,personal wallet,2026-02-22,student0480@example.com,Active
+LF0481,Lost,Wallet,Accessories,Sony,Green,Computer Lab,college wallet,2026-04-22,student0481@example.com,Active
+LF0482,Found,Jacket,Clothing,Apple,Brown,Sports Ground,Small  jacket,2026-03-16,student0482@example.com,Active
+LF0483,Found,Watch,Accessories,Samsung,Red,Sports Ground,everyday watch,2026-01-07,student0483@example.com,Claimed
+LF0484,Found,Laptop,Electronics,Milton,Red,Parking Area,college laptop,2026-02-18,student0484@example.com,Active
+LF0485,Lost,Notebook,Documents,Milton,White,Computer Lab,college notebook,2026-10-09,student0485@example.com,Active
+LF0486,Lost,Keychain,Accessories,Samsung,Red,Sports Ground,Large personal keychain,2026-04-22,student0486@example.com,Claimed
+LF0487,Lost,Keychain,Accessories,Apple,Black,Seminar Hall,everyday keychain,2026-05-05,student0487@example.com,Active
+LF0488,Lost,ID Card,Documents,Unknown,Grey,Library,Small college id card,2026-02-16,student0488@example.com,Active
+LF0489,Lost,Bag,Accessories,Sony,Grey,Parking Area,Medium personal bag,2026-04-30,student0489@example.com,Active
+LF0490,Lost,Scarf,Clothing,Nike,Pink,Hostel,Large  scarf,2026-01-21,student0490@example.com,Active
+LF0491,Lost,Bag,Accessories,Nike,Brown,Seminar Hall,Medium personal bag,2026-06-15,student0491@example.com,Active
+LF0492,Found,Lunch Box,Other,Milton,Grey,Parking Area,Small  lunch box,2026-05-15,student0492@example.com,Active
+LF0493,Found,Wallet,Accessories,Sony,White,Hostel,everyday wallet,2026-05-03,student0493@example.com,Claimed
+LF0494,Lost,Tiffin,Other,Puma,Grey,Canteen,Small personal tiffin,2026-06-15,student0494@example.com,Active
+LF0495,Lost,Laptop,Electronics,Samsung,Pink,Classroom,Small personal laptop,2026-04-14,student0495@example.com,Claimed
+LF0496,Found,Tiffin,Other,Apple,Grey,Classroom,Small personal tiffin,2026-05-12,student0496@example.com,Active
+LF0497,Lost,Sunglasses,Accessories,Sony,Green,Auditorium,Small college sunglasses,2026-02-01,student0497@example.com,Active
+LF0498,Lost,Water Bottle,Other,Dell,White,Canteen,Medium  water bottle,2026-02-09,student0498@example.com,Claimed
+LF0499,Lost,Watch,Accessories,Milton,Green,Canteen,Large  watch,2026-04-02,student0499@example.com,Active
+LF0500,Lost,Jacket,Clothing,Puma,Grey,Main Gate,college jacket,2026-10-09,student0500@example.com,Claimed
+LF0501,Found,Folder,Documents,Puma,Grey,Seminar Hall,Medium everyday folder,2026-07-31,student0501@example.com,Claimed
+LF0502,Found,Umbrella,Clothing,Nike,Green,Library,Small college umbrella,2026-08-20,student0502@example.com,Active
+LF0503,Lost,Water Bottle,Other,Apple,Brown,Classroom,Medium college water bottle,2026-06-04,student0503@example.com,Returned
+LF0504,Lost,Earbuds,Electronics,Sony,Blue,Main Gate,Large college earbuds,2026-08-24,student0504@example.com,Active
+LF0505,Lost,Lunch Box,Other,Samsung,Green,Seminar Hall,Medium personal lunch box,2026-06-03,student0505@example.com,Active
+LF0506,Lost,Book,Documents,Samsung,Brown,Library,personal book,2026-10-23,student0506@example.com,Active
+LF0507,Found,Earbuds,Electronics,Puma,White,Classroom,Small  earbuds,2026-08-11,student0507@example.com,Claimed
+LF0508,Lost,Earbuds,Electronics,HP,Grey,Hostel,Medium everyday earbuds,2026-10-17,student0508@example.com,Active
+LF0509,Found,Charger,Electronics,Milton,White,Classroom,college charger,2026-10-22,student0509@example.com,Claimed
+LF0510,Lost,Hoodie,Clothing,Unknown,Black,Hostel,college hoodie,2026-09-01,student0510@example.com,Active
+LF0511,Found,Charger,Electronics,HP,Pink,Hostel,Medium  charger,2026-03-08,student0511@example.com,Claimed
+LF0512,Lost,Umbrella,Clothing,Dell,Red,Canteen,Large  umbrella,2026-09-26,student0512@example.com,Active
+LF0513,Lost,Folder,Documents,Puma,Grey,Auditorium,Medium college folder,2026-07-31,student0513@example.com,Active
+LF0514,Lost,Folder,Documents,Sony,Pink,Seminar Hall,Medium  folder,2026-03-28,student0514@example.com,Claimed
+LF0515,Lost,Laptop,Electronics,Samsung,White,Library,Medium everyday laptop,2026-03-21,student0515@example.com,Active
+LF0516,Found,ID Card,Documents,Boat,Pink,Parking Area,Small college id card,2026-02-26,student0516@example.com,Active
+LF0517,Lost,Bag,Accessories,Boat,Pink,Seminar Hall,Medium personal bag,2026-09-25,student0517@example.com,Active
+LF0518,Lost,Umbrella,Clothing,Boat,Red,Seminar Hall,Large personal umbrella,2026-01-31,student0518@example.com,Active
+LF0519,Lost,Jacket,Clothing,Sony,White,Library,Large  jacket,2026-05-19,student0519@example.com,Active
+LF0520,Lost,Sunglasses,Accessories,Unknown,White,Main Gate,Medium  sunglasses,2026-09-06,student0520@example.com,Returned
+LF0521,Lost,Water Bottle,Other,Boat,Grey,Parking Area,everyday water bottle,2026-09-29,student0521@example.com,Active
+LF0522,Found,Earbuds,Electronics,Dell,Brown,Library,Large  earbuds,2026-06-04,student0522@example.com,Active
+LF0523,Found,Tablet,Electronics,Puma,Blue,Canteen,everyday tablet,2026-06-24,student0523@example.com,Active
+LF0524,Lost,Hoodie,Clothing,Unknown,Grey,Parking Area,Medium everyday hoodie,2026-06-09,student0524@example.com,Active
+LF0525,Lost,Bag,Accessories,Milton,Blue,Sports Ground,Medium everyday bag,2026-06-08,student0525@example.com,Claimed
+LF0526,Lost,ID Card,Documents,Apple,Grey,Sports Ground,college id card,2026-03-16,student0526@example.com,Active
+LF0527,Lost,Scarf,Clothing,HP,Blue,Library,Large everyday scarf,2026-02-24,student0527@example.com,Claimed
+LF0528,Lost,Lunch Box,Other,Samsung,Pink,Main Gate,college lunch box,2026-07-03,student0528@example.com,Active
+LF0529,Found,Sunglasses,Accessories,Dell,Red,Library,personal sunglasses,2026-03-25,student0529@example.com,Active
+LF0530,Lost,Book,Documents,Dell,White,Main Gate,book,2026-04-14,student0530@example.com,Active
+LF0531,Lost,Book,Documents,Unknown,Green,Auditorium,personal book,2026-01-22,student0531@example.com,Active
+LF0532,Found,Water Bottle,Other,Dell,Green,Library,personal water bottle,2026-01-22,student0532@example.com,Active
+LF0533,Found,Keychain,Accessories,Boat,Pink,Main Gate,college keychain,2026-06-05,student0533@example.com,Active
+LF0534,Lost,Water Bottle,Other,Samsung,White,Main Gate,Medium  water bottle,2026-08-20,student0534@example.com,Active
+LF0535,Found,Scarf,Clothing,Unknown,Red,Parking Area,Small college scarf,2026-08-21,student0535@example.com,Active
+LF0536,Lost,Notebook,Documents,Sony,White,Hostel,everyday notebook,2026-08-19,student0536@example.com,Active
+LF0537,Found,Umbrella,Clothing,Sony,Blue,Main Gate,Medium everyday umbrella,2026-03-29,student0537@example.com,Active
+LF0538,Found,Charger,Electronics,Boat,Blue,Canteen,Medium everyday charger,2026-08-17,student0538@example.com,Active
+LF0539,Found,Tablet,Electronics,Nike,Black,Seminar Hall,everyday tablet,2026-09-12,student0539@example.com,Active
+LF0540,Found,Bag,Accessories,Samsung,Black,Classroom,Large everyday bag,2026-08-15,student0540@example.com,Active
+LF0541,Lost,Laptop,Electronics,Apple,Blue,Library,Large college laptop,2026-06-28,student0541@example.com,Active
+LF0542,Lost,Phone,Electronics,HP,Brown,Seminar Hall,Medium  phone,2026-04-02,student0542@example.com,Active
+LF0543,Lost,Calculator,Other,Sony,Grey,Sports Ground,Small  calculator,2026-06-03,student0543@example.com,Active
+LF0544,Found,Water Bottle,Other,Boat,Grey,Hostel,everyday water bottle,2026-03-04,student0544@example.com,Active
+LF0545,Lost,Bag,Accessories,Samsung,Pink,Seminar Hall,Large  bag,2026-09-28,student0545@example.com,Active
+LF0546,Found,Calculator,Other,HP,Pink,Hostel,calculator,2026-07-01,student0546@example.com,Active
+LF0547,Lost,Bag,Accessories,Apple,White,Library,personal bag,2026-04-10,student0547@example.com,Active
+LF0548,Found,Bag,Accessories,Sony,Red,Library,Medium college bag,2026-06-20,student0548@example.com,Active
+LF0549,Found,ID Card,Documents,Sony,Black,Canteen,Large college id card,2026-10-09,student0549@example.com,Active
+LF0550,Lost,Umbrella,Clothing,Sony,Grey,Parking Area,personal umbrella,2026-04-10,student0550@example.com,Claimed
+LF0551,Lost,Sunglasses,Accessories,Sony,Pink,Sports Ground,Small college sunglasses,2026-10-02,student0551@example.com,Active
+LF0552,Lost,Calculator,Other,Sony,White,Main Gate,Large personal calculator,2026-06-19,student0552@example.com,Active
+LF0553,Lost,Book,Documents,HP,White,Computer Lab,Large personal book,2026-07-19,student0553@example.com,Active
+LF0554,Lost,Book,Documents,Sony,Pink,Computer Lab,Medium college book,2026-05-02,student0554@example.com,Active
+LF0555,Found,Wallet,Accessories,Samsung,Pink,Hostel,Small  wallet,2026-04-14,student0555@example.com,Claimed
+LF0556,Lost,Lunch Box,Other,Milton,Brown,Auditorium,Medium personal lunch box,2026-09-05,student0556@example.com,Active
+LF0557,Lost,Lunch Box,Other,Puma,White,Library,Large personal lunch box,2026-08-24,student0557@example.com,Active
+LF0558,Found,Water Bottle,Other,Samsung,Brown,Library,Large everyday water bottle,2026-01-24,student0558@example.com,Active
+LF0559,Lost,Notebook,Documents,Sony,Pink,Canteen,Large everyday notebook,2026-09-30,student0559@example.com,Active
+LF0560,Lost,Keychain,Accessories,Milton,White,Classroom,Large college keychain,2026-10-14,student0560@example.com,Active
+LF0561,Found,Notebook,Documents,Samsung,Brown,Seminar Hall,Large  notebook,2026-03-29,student0561@example.com,Active
+LF0562,Lost,Laptop,Electronics,Samsung,Green,Library,Small  laptop,2026-01-26,student0562@example.com,Active
+LF0563,Found,Hoodie,Clothing,Sony,Red,Hostel,Small  hoodie,2026-06-09,student0563@example.com,Active
+LF0564,Lost,Lunch Box,Other,Samsung,Pink,Computer Lab,lunch box,2026-08-28,student0564@example.com,Claimed
+LF0565,Lost,Watch,Accessories,Sony,Green,Main Gate,Large college watch,2026-05-13,student0565@example.com,Claimed
+LF0566,Lost,Cap,Clothing,Sony,Pink,Parking Area,Medium college cap,2026-02-27,student0566@example.com,Active
+LF0567,Lost,Folder,Documents,Samsung,Grey,Hostel,Small college folder,2026-07-27,student0567@example.com,Active
+LF0568,Found,Tiffin,Other,Unknown,Red,Hostel,Medium  tiffin,2026-05-03,student0568@example.com,Active
+LF0569,Found,Jacket,Clothing,Puma,Grey,Hostel,Medium everyday jacket,2026-08-09,student0569@example.com,Active
+LF0570,Found,Tablet,Electronics,Sony,White,Parking Area,Medium college tablet,2026-08-26,student0570@example.com,Active
+LF0571,Lost,Jacket,Clothing,Sony,Pink,Library,Small everyday jacket,2026-07-14,student0571@example.com,Active
+LF0572,Lost,Bag,Accessories,Nike,Brown,Sports Ground,everyday bag,2026-03-18,student0572@example.com,Claimed
+LF0573,Found,Keychain,Accessories,Puma,Grey,Canteen,Small  keychain,2026-06-05,student0573@example.com,Active
+LF0574,Lost,Keychain,Accessories,Apple,Black,Hostel,Large personal keychain,2026-10-09,student0574@example.com,Active
+LF0575,Lost,ID Card,Documents,Sony,Green,Sports Ground,id card,2026-07-21,student0575@example.com,Active
+LF0576,Lost,Lunch Box,Other,Milton,Green,Auditorium,everyday lunch box,2026-04-07,student0576@example.com,Active
+LF0577,Lost,Notebook,Documents,HP,Pink,Sports Ground,Medium personal notebook,2026-01-09,student0577@example.com,Active
+LF0578,Found,Sunglasses,Accessories,Unknown,Blue,Parking Area,sunglasses,2026-08-06,student0578@example.com,Claimed
+LF0579,Lost,Scarf,Clothing,Unknown,Pink,Classroom,Large  scarf,2026-01-04,student0579@example.com,Active
+LF0580,Found,Bottle,Other,Unknown,Pink,Auditorium,Small  bottle,2026-01-20,student0580@example.com,Active
+LF0581,Found,Laptop,Electronics,Milton,White,Classroom,personal laptop,2026-02-10,student0581@example.com,Active
+LF0582,Found,Bottle,Other,Milton,Black,Parking Area,bottle,2026-06-25,student0582@example.com,Active
+LF0583,Found,Calculator,Other,Boat,Blue,Library,Large college calculator,2026-05-31,student0583@example.com,Active
+LF0584,Lost,Charger,Electronics,Unknown,Black,Computer Lab,personal charger,2026-05-30,student0584@example.com,Active
+LF0585,Lost,Bag,Accessories,Boat,Blue,Seminar Hall,Large college bag,2026-05-23,student0585@example.com,Claimed
+LF0586,Lost,ID Card,Documents,Nike,Grey,Main Gate,Large everyday id card,2026-03-19,student0586@example.com,Active
+LF0587,Lost,Hoodie,Clothing,HP,Blue,Parking Area,hoodie,2026-02-13,student0587@example.com,Active
+LF0588,Lost,Sunglasses,Accessories,Apple,Brown,Canteen,Small everyday sunglasses,2026-06-26,student0588@example.com,Active
+LF0589,Found,Cap,Clothing,Dell,Green,Sports Ground,college cap,2026-09-30,student0589@example.com,Active
+LF0590,Found,Bag,Accessories,Puma,Grey,Hostel,Small personal bag,2026-08-18,student0590@example.com,Active
+LF0591,Found,Calculator,Other,Sony,Brown,Computer Lab,Small college calculator,2026-05-20,student0591@example.com,Active
+LF0592,Found,Tiffin,Other,Unknown,Red,Hostel,Large everyday tiffin,2026-05-04,student0592@example.com,Claimed
+LF0593,Lost,Folder,Documents,Apple,Green,Canteen,Small  folder,2026-02-04,student0593@example.com,Active
+LF0594,Found,Notebook,Documents,Apple,White,Library,Medium personal notebook,2026-01-18,student0594@example.com,Active
+LF0595,Lost,Phone,Electronics,HP,White,Main Gate,Large college phone,2026-10-17,student0595@example.com,Active
+LF0596,Found,Jacket,Clothing,Puma,Grey,Computer Lab,Medium personal jacket,2026-05-22,student0596@example.com,Returned
+LF0597,Found,ID Card,Documents,Boat,Brown,Main Gate,personal id card,2026-01-31,student0597@example.com,Active
+LF0598,Found,Hoodie,Clothing,Samsung,Blue,Hostel,everyday hoodie,2026-09-09,student0598@example.com,Active
+LF0599,Found,Water Bottle,Other,Apple,White,Canteen,Large  water bottle,2026-02-22,student0599@example.com,Active
+LF0600,Lost,Charger,Electronics,Apple,Green,Computer Lab,Medium college charger,2026-01-01,student0600@example.com,Active
+LF0601,Lost,Umbrella,Clothing,Nike,Green,Sports Ground,Small everyday umbrella,2026-09-09,student0601@example.com,Active
+LF0602,Found,Charger,Electronics,Sony,Grey,Computer Lab,personal charger,2026-10-02,student0602@example.com,Active
+LF0603,Found,Earbuds,Electronics,Boat,Red,Main Gate,Small  earbuds,2026-08-24,student0603@example.com,Active
+LF0604,Found,Keychain,Accessories,Nike,White,Parking Area,Medium everyday keychain,2026-07-03,student0604@example.com,Claimed
+LF0605,Lost,Laptop,Electronics,Nike,Green,Canteen,Large  laptop,2026-05-03,student0605@example.com,Active
+LF0606,Lost,Tiffin,Other,Sony,Black,Sports Ground,Small everyday tiffin,2026-01-29,student0606@example.com,Active
+LF0607,Lost,Tiffin,Other,Samsung,Black,Main Gate,personal tiffin,2026-04-30,student0607@example.com,Active
+LF0608,Lost,Umbrella,Clothing,Apple,Blue,Library,Large personal umbrella,2026-03-08,student0608@example.com,Active
+LF0609,Lost,Umbrella,Clothing,Samsung,White,Parking Area,Medium personal umbrella,2026-02-02,student0609@example.com,Claimed
+LF0610,Found,Sunglasses,Accessories,Sony,White,Seminar Hall,Medium college sunglasses,2026-07-25,student0610@example.com,Claimed
+LF0611,Lost,Wallet,Accessories,Boat,Blue,Sports Ground,Medium college wallet,2026-03-03,student0611@example.com,Active
+LF0612,Found,Lunch Box,Other,Apple,Blue,Canteen,everyday lunch box,2026-10-25,student0612@example.com,Active
+LF0613,Lost,Charger,Electronics,Samsung,Brown,Sports Ground,everyday charger,2026-04-02,student0613@example.com,Active
+LF0614,Found,Watch,Accessories,Dell,Blue,Seminar Hall,Small everyday watch,2026-07-30,student0614@example.com,Active
+LF0615,Lost,Umbrella,Clothing,Sony,Green,Library,Medium everyday umbrella,2026-06-04,student0615@example.com,Active
+LF0616,Lost,Tablet,Electronics,Milton,Red,Parking Area,Medium college tablet,2026-10-04,student0616@example.com,Active
+LF0617,Lost,Laptop,Electronics,Nike,Blue,Main Gate,Small personal laptop,2026-08-31,student0617@example.com,Claimed
+LF0618,Lost,Certificate,Documents,Unknown,Pink,Library,Small personal certificate,2026-06-21,student0618@example.com,Active
+LF0619,Lost,Lunch Box,Other,Milton,White,Canteen,Medium  lunch box,2026-09-06,student0619@example.com,Claimed
+LF0620,Found,Bottle,Other,Dell,White,Auditorium,Medium personal bottle,2026-06-16,student0620@example.com,Active
+LF0621,Lost,Sunglasses,Accessories,Samsung,Pink,Seminar Hall,personal sunglasses,2026-04-23,student0621@example.com,Active
+LF0622,Lost,Hoodie,Clothing,HP,Green,Auditorium,Medium  hoodie,2026-08-21,student0622@example.com,Returned
+LF0623,Found,Keychain,Accessories,Apple,Black,Computer Lab,Medium personal keychain,2026-03-07,student0623@example.com,Active
+LF0624,Found,Cap,Clothing,Dell,Brown,Seminar Hall,Medium everyday cap,2026-06-25,student0624@example.com,Active
+LF0625,Lost,Bottle,Other,Nike,Red,Seminar Hall,bottle,2026-09-25,student0625@example.com,Active
+LF0626,Found,ID Card,Documents,Dell,Grey,Sports Ground,Medium everyday id card,2026-05-07,student0626@example.com,Active
+LF0627,Found,Water Bottle,Other,Nike,Black,Sports Ground,water bottle,2026-01-21,student0627@example.com,Returned
+LF0628,Found,Charger,Electronics,Apple,Green,Classroom,Medium college charger,2026-10-13,student0628@example.com,Active
+LF0629,Lost,Notebook,Documents,HP,Pink,Seminar Hall,Small  notebook,2026-06-06,student0629@example.com,Active
+LF0630,Found,Hoodie,Clothing,Nike,Black,Canteen,college hoodie,2026-07-09,student0630@example.com,Active
+LF0631,Found,Water Bottle,Other,Unknown,Red,Canteen,Large personal water bottle,2026-05-19,student0631@example.com,Active
+LF0632,Lost,Calculator,Other,Nike,Black,Auditorium,Large everyday calculator,2026-07-07,student0632@example.com,Active
+LF0633,Lost,Water Bottle,Other,Dell,White,Parking Area,Medium everyday water bottle,2026-06-21,student0633@example.com,Active
+LF0634,Found,Certificate,Documents,Boat,Black,Canteen,Large college certificate,2026-08-05,student0634@example.com,Active
+LF0635,Lost,Cap,Clothing,Milton,Brown,Parking Area,Large personal cap,2026-09-30,student0635@example.com,Active
+LF0636,Lost,Sunglasses,Accessories,Boat,White,Canteen,Medium college sunglasses,2026-04-02,student0636@example.com,Active
+LF0637,Found,Laptop,Electronics,Milton,Black,Computer Lab,everyday laptop,2026-04-15,student0637@example.com,Active
+LF0638,Found,Scarf,Clothing,Boat,Red,Canteen,Small everyday scarf,2026-01-11,student0638@example.com,Active
+LF0639,Found,Calculator,Other,Nike,Pink,Parking Area,Large everyday calculator,2026-06-17,student0639@example.com,Active
+LF0640,Found,Notebook,Documents,Boat,Black,Main Gate,Large college notebook,2026-07-10,student0640@example.com,Active
+LF0641,Lost,Hoodie,Clothing,HP,Blue,Main Gate,Medium everyday hoodie,2026-05-27,student0641@example.com,Active
+LF0642,Found,Phone,Electronics,Boat,Grey,Main Gate,Medium personal phone,2026-08-14,student0642@example.com,Active
+LF0643,Lost,Certificate,Documents,HP,Brown,Canteen,Small  certificate,2026-10-04,student0643@example.com,Active
+LF0644,Found,Hoodie,Clothing,Apple,Grey,Computer Lab,college hoodie,2026-03-21,student0644@example.com,Returned
+LF0645,Found,Lunch Box,Other,Nike,Black,Main Gate,Small college lunch box,2026-02-27,student0645@example.com,Active
+LF0646,Lost,Charger,Electronics,Sony,Black,Seminar Hall,Medium everyday charger,2026-02-17,student0646@example.com,Active
+LF0647,Lost,Notebook,Documents,Samsung,Green,Classroom,college notebook,2026-08-17,student0647@example.com,Active
+LF0648,Lost,Bottle,Other,Puma,Blue,Sports Ground,Large  bottle,2026-07-04,student0648@example.com,Returned
+LF0649,Found,ID Card,Documents,Nike,White,Classroom,id card,2026-06-07,student0649@example.com,Active
+LF0650,Lost,Scarf,Clothing,Puma,Blue,Seminar Hall,Small everyday scarf,2026-08-06,student0650@example.com,Claimed
+LF0651,Found,Keychain,Accessories,Sony,White,Seminar Hall,personal keychain,2026-09-26,student0651@example.com,Returned
+LF0652,Found,Charger,Electronics,Nike,Blue,Classroom,Medium  charger,2026-10-12,student0652@example.com,Active
+LF0653,Found,Folder,Documents,Unknown,Brown,Parking Area,everyday folder,2026-06-04,student0653@example.com,Active
+LF0654,Lost,Phone,Electronics,Samsung,Brown,Sports Ground,Medium  phone,2026-08-30,student0654@example.com,Active
+LF0655,Lost,Wallet,Accessories,Samsung,Grey,Seminar Hall,wallet,2026-09-10,student0655@example.com,Claimed
+LF0656,Lost,Book,Documents,Apple,Brown,Main Gate,Small everyday book,2026-10-22,student0656@example.com,Active
+LF0657,Lost,Book,Documents,Boat,Grey,Sports Ground,Large personal book,2026-01-28,student0657@example.com,Active
+LF0658,Lost,Certificate,Documents,Samsung,Blue,Hostel,Large college certificate,2026-04-04,student0658@example.com,Active
+LF0659,Found,Certificate,Documents,Sony,Blue,Library,Medium college certificate,2026-10-24,student0659@example.com,Active
+LF0660,Found,Book,Documents,Samsung,Red,Main Gate,Medium everyday book,2026-03-25,student0660@example.com,Active
+LF0661,Lost,Bottle,Other,Samsung,Blue,Library,college bottle,2026-02-09,student0661@example.com,Active
+LF0662,Lost,Certificate,Documents,Sony,Blue,Computer Lab,Small personal certificate,2026-09-25,student0662@example.com,Claimed
+LF0663,Lost,Watch,Accessories,HP,Red,Main Gate,Small  watch,2026-06-07,student0663@example.com,Active
+LF0664,Lost,Phone,Electronics,Apple,Red,Canteen,Small personal phone,2026-08-09,student0664@example.com,Claimed
+LF0665,Found,Jacket,Clothing,Apple,White,Canteen,Medium everyday jacket,2026-06-04,student0665@example.com,Active
+LF0666,Lost,Keychain,Accessories,Unknown,Grey,Auditorium,Medium everyday keychain,2026-05-23,student0666@example.com,Active
+LF0667,Lost,Bottle,Other,Apple,Red,Classroom,Large everyday bottle,2026-10-24,student0667@example.com,Active
+LF0668,Lost,Water Bottle,Other,Nike,Grey,Seminar Hall,Medium  water bottle,2026-09-16,student0668@example.com,Returned
+LF0669,Found,Laptop,Electronics,Dell,Red,Sports Ground,Small college laptop,2026-08-06,student0669@example.com,Returned
+LF0670,Lost,Charger,Electronics,Sony,Brown,Hostel,Small personal charger,2026-09-11,student0670@example.com,Active
+LF0671,Lost,Book,Documents,Unknown,Brown,Parking Area,Medium  book,2026-08-22,student0671@example.com,Active
+LF0672,Lost,Book,Documents,Sony,Blue,Library,personal book,2026-09-01,student0672@example.com,Claimed
+LF0673,Lost,Cap,Clothing,Puma,White,Main Gate,Small college cap,2026-07-22,student0673@example.com,Active
+LF0674,Lost,Keychain,Accessories,Samsung,Red,Sports Ground,college keychain,2026-07-26,student0674@example.com,Active
+LF0675,Found,Bottle,Other,Sony,Pink,Seminar Hall,bottle,2026-07-24,student0675@example.com,Claimed
+LF0676,Lost,Calculator,Other,Samsung,Brown,Parking Area,everyday calculator,2026-02-25,student0676@example.com,Claimed
+LF0677,Lost,Wallet,Accessories,Nike,Black,Main Gate,college wallet,2026-02-04,student0677@example.com,Active
+LF0678,Lost,Keychain,Accessories,Nike,Pink,Classroom,Large  keychain,2026-09-24,student0678@example.com,Claimed
+LF0679,Found,Umbrella,Clothing,Milton,Black,Library,personal umbrella,2026-10-04,student0679@example.com,Active
+LF0680,Found,Cap,Clothing,Nike,Black,Library,Medium college cap,2026-08-15,student0680@example.com,Claimed
+LF0681,Found,Sunglasses,Accessories,Nike,White,Seminar Hall,sunglasses,2026-07-19,student0681@example.com,Active
+LF0682,Lost,Umbrella,Clothing,Boat,Pink,Seminar Hall,college umbrella,2026-07-20,student0682@example.com,Active
+LF0683,Lost,Certificate,Documents,HP,Grey,Auditorium,Small college certificate,2026-01-24,student0683@example.com,Active
+LF0684,Found,Jacket,Clothing,Puma,Grey,Library,Medium everyday jacket,2026-07-02,student0684@example.com,Active
+LF0685,Lost,Keychain,Accessories,Boat,White,Auditorium,Medium personal keychain,2026-02-03,student0685@example.com,Returned
+LF0686,Lost,Calculator,Other,Unknown,Green,Computer Lab,Small  calculator,2026-08-05,student0686@example.com,Active
+LF0687,Found,Water Bottle,Other,Sony,White,Parking Area,Small everyday water bottle,2026-07-19,student0687@example.com,Active
+LF0688,Found,Book,Documents,Sony,Green,Classroom,personal book,2026-06-03,student0688@example.com,Active
+LF0689,Found,Lunch Box,Other,Unknown,Green,Classroom,Small personal lunch box,2026-06-02,student0689@example.com,Active
+LF0690,Found,Calculator,Other,Nike,Green,Classroom,Large personal calculator,2026-09-29,student0690@example.com,Active
+LF0691,Found,Folder,Documents,Sony,Red,Sports Ground,college folder,2026-10-04,student0691@example.com,Active
+LF0692,Found,Bottle,Other,HP,Black,Hostel,Medium  bottle,2026-10-08,student0692@example.com,Active
+LF0693,Found,Sunglasses,Accessories,Unknown,Green,Seminar Hall,Small everyday sunglasses,2026-09-30,student0693@example.com,Returned
+LF0694,Lost,Book,Documents,Puma,Green,Auditorium,Small everyday book,2026-06-03,student0694@example.com,Active
+LF0695,Found,Scarf,Clothing,Unknown,Red,Sports Ground,Medium personal scarf,2026-05-12,student0695@example.com,Active
+LF0696,Lost,Watch,Accessories,Nike,Pink,Hostel,watch,2026-06-08,student0696@example.com,Active
+LF0697,Lost,Laptop,Electronics,Boat,Brown,Hostel,Medium personal laptop,2026-01-15,student0697@example.com,Active
+LF0698,Lost,Jacket,Clothing,Sony,Brown,Canteen,college jacket,2026-02-12,student0698@example.com,Claimed
+LF0699,Lost,Charger,Electronics,Milton,White,Hostel,Large  charger,2026-10-20,student0699@example.com,Active
+LF0700,Lost,Laptop,Electronics,Sony,Green,Classroom,everyday laptop,2026-06-10,student0700@example.com,Claimed
+LF0701,Lost,Wallet,Accessories,Nike,Green,Computer Lab,Small  wallet,2026-05-21,student0701@example.com,Active
+LF0702,Lost,Calculator,Other,Nike,Red,Computer Lab,Medium college calculator,2026-08-05,student0702@example.com,Active
+LF0703,Found,Scarf,Clothing,Apple,Red,Computer Lab,college scarf,2026-01-18,student0703@example.com,Active
+LF0704,Lost,ID Card,Documents,Apple,Green,Computer Lab,Large personal id card,2026-07-18,student0704@example.com,Claimed
+LF0705,Lost,Keychain,Accessories,Nike,Grey,Sports Ground,Small college keychain,2026-03-24,student0705@example.com,Claimed
+LF0706,Found,Charger,Electronics,Puma,White,Main Gate,Large personal charger,2026-06-20,student0706@example.com,Active
+LF0707,Found,Book,Documents,Apple,Blue,Parking Area,Medium personal book,2026-01-15,student0707@example.com,Active
+LF0708,Found,Hoodie,Clothing,Samsung,Blue,Classroom,Medium  hoodie,2026-02-12,student0708@example.com,Active
+LF0709,Found,Book,Documents,Boat,Blue,Seminar Hall,Large college book,2026-03-10,student0709@example.com,Claimed
+LF0710,Found,Wallet,Accessories,Puma,Red,Library,Small everyday wallet,2026-07-21,student0710@example.com,Active
+LF0711,Lost,Charger,Electronics,Apple,Green,Seminar Hall,college charger,2026-03-28,student0711@example.com,Active
+LF0712,Found,Wallet,Accessories,Samsung,Black,Hostel,wallet,2026-10-18,student0712@example.com,Active
+LF0713,Lost,Jacket,Clothing,Boat,Brown,Parking Area,everyday jacket,2026-04-08,student0713@example.com,Active
+LF0714,Lost,Hoodie,Clothing,Dell,Green,Main Gate,everyday hoodie,2026-05-25,student0714@example.com,Returned
+LF0715,Found,Earbuds,Electronics,Dell,Grey,Seminar Hall,personal earbuds,2026-08-19,student0715@example.com,Active
+LF0716,Lost,Charger,Electronics,Dell,Green,Sports Ground,Large personal charger,2026-07-23,student0716@example.com,Claimed
+LF0717,Lost,Tablet,Electronics,Nike,Grey,Seminar Hall,Small personal tablet,2026-05-01,student0717@example.com,Active
+LF0718,Found,Folder,Documents,Sony,Blue,Hostel,Small everyday folder,2026-07-22,student0718@example.com,Active
+LF0719,Found,Notebook,Documents,HP,White,Auditorium,everyday notebook,2026-08-28,student0719@example.com,Returned
+LF0720,Found,ID Card,Documents,Nike,Brown,Auditorium,college id card,2026-03-07,student0720@example.com,Active
+LF0721,Found,Folder,Documents,HP,Grey,Parking Area,Medium  folder,2026-08-12,student0721@example.com,Active
+LF0722,Lost,Laptop,Electronics,Apple,Pink,Computer Lab,Medium  laptop,2026-04-04,student0722@example.com,Active
+LF0723,Found,Jacket,Clothing,Milton,Pink,Parking Area,personal jacket,2026-07-02,student0723@example.com,Active
+LF0724,Found,Wallet,Accessories,HP,Blue,Hostel,Large everyday wallet,2026-05-26,student0724@example.com,Active
+LF0725,Lost,Water Bottle,Other,Dell,Pink,Canteen,Large personal water bottle,2026-02-09,student0725@example.com,Active
+LF0726,Found,ID Card,Documents,Sony,Blue,Library,Small  id card,2026-02-24,student0726@example.com,Active
+LF0727,Found,Cap,Clothing,Sony,Black,Seminar Hall,college cap,2026-01-03,student0727@example.com,Active
+LF0728,Lost,Lunch Box,Other,Sony,Black,Canteen,personal lunch box,2026-05-25,student0728@example.com,Claimed
+LF0729,Lost,Scarf,Clothing,Samsung,Black,Classroom,Medium  scarf,2026-07-24,student0729@example.com,Active
+LF0730,Lost,Scarf,Clothing,Puma,Brown,Seminar Hall,Medium college scarf,2026-09-09,student0730@example.com,Active
+LF0731,Lost,Earbuds,Electronics,Nike,Brown,Seminar Hall,personal earbuds,2026-07-18,student0731@example.com,Active
+LF0732,Lost,Scarf,Clothing,Samsung,Black,Hostel,Large  scarf,2026-08-07,student0732@example.com,Active
+LF0733,Found,Watch,Accessories,Samsung,Brown,Parking Area,personal watch,2026-09-26,student0733@example.com,Active
+LF0734,Lost,Scarf,Clothing,Dell,Green,Computer Lab,Small personal scarf,2026-06-03,student0734@example.com,Returned
+LF0735,Lost,Tablet,Electronics,Samsung,Pink,Seminar Hall,Large college tablet,2026-07-31,student0735@example.com,Active
+LF0736,Lost,Folder,Documents,Samsung,Pink,Main Gate,Medium  folder,2026-01-09,student0736@example.com,Claimed
+LF0737,Found,Phone,Electronics,Sony,Pink,Parking Area,Large college phone,2026-06-02,student0737@example.com,Claimed
+LF0738,Lost,Watch,Accessories,Samsung,Green,Hostel,Small personal watch,2026-05-13,student0738@example.com,Active
+LF0739,Lost,Jacket,Clothing,Nike,Green,Seminar Hall,college jacket,2026-09-02,student0739@example.com,Active
+LF0740,Found,Bottle,Other,Boat,White,Main Gate,Medium personal bottle,2026-07-22,student0740@example.com,Active
+LF0741,Lost,Wallet,Accessories,Apple,Red,Parking Area,Medium everyday wallet,2026-04-07,student0741@example.com,Active
+LF0742,Lost,Umbrella,Clothing,HP,Pink,Sports Ground,Small personal umbrella,2026-08-26,student0742@example.com,Active
+LF0743,Found,Watch,Accessories,Apple,Pink,Seminar Hall,Medium everyday watch,2026-08-30,student0743@example.com,Returned
+LF0744,Found,Folder,Documents,Samsung,Green,Sports Ground,college folder,2026-01-05,student0744@example.com,Active
+LF0745,Found,Charger,Electronics,Dell,Black,Hostel,Small  charger,2026-09-07,student0745@example.com,Active
+LF0746,Lost,Calculator,Other,Nike,White,Parking Area,Large  calculator,2026-08-02,student0746@example.com,Active
+LF0747,Lost,Jacket,Clothing,Nike,Grey,Parking Area,Medium everyday jacket,2026-04-09,student0747@example.com,Active
+LF0748,Found,Calculator,Other,Puma,Green,Auditorium,everyday calculator,2026-05-31,student0748@example.com,Active
+LF0749,Found,Lunch Box,Other,Nike,Blue,Main Gate,Medium everyday lunch box,2026-02-14,student0749@example.com,Active
+LF0750,Lost,Tiffin,Other,Boat,Red,Classroom,Small personal tiffin,2026-09-10,student0750@example.com,Claimed
+LF0751,Found,Certificate,Documents,Milton,Black,Canteen,Large  certificate,2026-03-31,student0751@example.com,Active
+LF0752,Lost,Tablet,Electronics,Nike,Brown,Auditorium,Large personal tablet,2026-04-25,student0752@example.com,Active
+LF0753,Lost,Calculator,Other,Unknown,White,Library,calculator,2026-09-21,student0753@example.com,Claimed
+LF0754,Lost,Phone,Electronics,Milton,White,Main Gate,Small everyday phone,2026-01-22,student0754@example.com,Claimed
+LF0755,Found,Notebook,Documents,Nike,White,Main Gate,Large college notebook,2026-09-17,student0755@example.com,Active
+LF0756,Lost,Wallet,Accessories,Apple,Red,Parking Area,Large college wallet,2026-08-01,student0756@example.com,Active
+LF0757,Lost,Lunch Box,Other,Sony,Red,Main Gate,everyday lunch box,2026-08-01,student0757@example.com,Active
+LF0758,Found,Sunglasses,Accessories,Milton,Grey,Library,everyday sunglasses,2026-08-23,student0758@example.com,Returned
+LF0759,Lost,Tablet,Electronics,Puma,Blue,Sports Ground,Small  tablet,2026-06-11,student0759@example.com,Active
+LF0760,Lost,Laptop,Electronics,Boat,Green,Sports Ground,Large college laptop,2026-09-24,student0760@example.com,Returned
+LF0761,Found,ID Card,Documents,Puma,Pink,Classroom,college id card,2026-03-17,student0761@example.com,Returned
+LF0762,Found,Hoodie,Clothing,Sony,Green,Main Gate,Large everyday hoodie,2026-10-03,student0762@example.com,Active
+LF0763,Found,Tablet,Electronics,Apple,Black,Hostel,Large everyday tablet,2026-03-23,student0763@example.com,Active
+LF0764,Lost,Book,Documents,Boat,Grey,Canteen,Small personal book,2026-07-10,student0764@example.com,Active
+LF0765,Lost,Scarf,Clothing,Unknown,Red,Auditorium,Large college scarf,2026-05-01,student0765@example.com,Active
+LF0766,Found,Lunch Box,Other,Samsung,Grey,Hostel,Medium college lunch box,2026-05-07,student0766@example.com,Active
+LF0767,Lost,Jacket,Clothing,Samsung,White,Library,everyday jacket,2026-07-30,student0767@example.com,Active
+LF0768,Found,Hoodie,Clothing,Puma,Green,Computer Lab,hoodie,2026-09-27,student0768@example.com,Active
+LF0769,Found,Cap,Clothing,Milton,Blue,Parking Area,everyday cap,2026-03-15,student0769@example.com,Claimed
+LF0770,Lost,Bottle,Other,Nike,Black,Main Gate,Large personal bottle,2026-08-22,student0770@example.com,Active
+LF0771,Lost,Tiffin,Other,Boat,Black,Hostel,Medium personal tiffin,2026-10-20,student0771@example.com,Active
+LF0772,Found,Certificate,Documents,Apple,Blue,Main Gate,personal certificate,2026-09-06,student0772@example.com,Active
+LF0773,Lost,Certificate,Documents,Apple,White,Hostel,Large personal certificate,2026-09-08,student0773@example.com,Active
+LF0774,Found,Charger,Electronics,Nike,Grey,Sports Ground,everyday charger,2026-10-17,student0774@example.com,Active
+LF0775,Found,Bag,Accessories,HP,Grey,Canteen,bag,2026-08-18,student0775@example.com,Claimed
+LF0776,Found,Sunglasses,Accessories,Boat,White,Main Gate,Small college sunglasses,2026-08-15,student0776@example.com,Active
+LF0777,Lost,Water Bottle,Other,Unknown,Black,Seminar Hall,Medium  water bottle,2026-10-05,student0777@example.com,Active
+LF0778,Lost,Water Bottle,Other,HP,Black,Computer Lab,Medium everyday water bottle,2026-09-30,student0778@example.com,Active
+LF0779,Lost,Tiffin,Other,Puma,Black,Parking Area,Small college tiffin,2026-06-14,student0779@example.com,Claimed
+LF0780,Found,Hoodie,Clothing,Sony,Green,Computer Lab,Small personal hoodie,2026-09-28,student0780@example.com,Active
+LF0781,Lost,Tablet,Electronics,Boat,White,Main Gate,Large  tablet,2026-04-04,student0781@example.com,Active
+LF0782,Found,Wallet,Accessories,Boat,Green,Canteen,Large everyday wallet,2026-01-30,student0782@example.com,Active
+LF0783,Found,Scarf,Clothing,Apple,Red,Classroom,Medium  scarf,2026-03-03,student0783@example.com,Active
+LF0784,Found,Bottle,Other,Apple,Grey,Parking Area,personal bottle,2026-05-18,student0784@example.com,Returned
+LF0785,Found,Jacket,Clothing,Boat,White,Classroom,Medium college jacket,2026-01-10,student0785@example.com,Active
+LF0786,Found,Tiffin,Other,Dell,Blue,Auditorium,Medium everyday tiffin,2026-09-14,student0786@example.com,Active
+LF0787,Found,Tiffin,Other,Unknown,Brown,Main Gate,Small personal tiffin,2026-08-26,student0787@example.com,Active
+LF0788,Found,Scarf,Clothing,Sony,Red,Seminar Hall,Large personal scarf,2026-07-14,student0788@example.com,Claimed
+LF0789,Lost,Bag,Accessories,Samsung,Blue,Hostel,Large  bag,2026-07-22,student0789@example.com,Active
+LF0790,Found,Bag,Accessories,Boat,Pink,Computer Lab,Medium college bag,2026-06-25,student0790@example.com,Claimed
+LF0791,Found,Notebook,Documents,Apple,Blue,Library,personal notebook,2026-06-18,student0791@example.com,Returned
+LF0792,Found,Laptop,Electronics,Puma,White,Canteen,Small  laptop,2026-09-08,student0792@example.com,Active
+LF0793,Found,Earbuds,Electronics,Puma,Blue,Library,Small  earbuds,2026-07-03,student0793@example.com,Claimed
+LF0794,Found,Notebook,Documents,Boat,Grey,Classroom,Small college notebook,2026-01-11,student0794@example.com,Active
+LF0795,Found,Watch,Accessories,Boat,Pink,Seminar Hall,Medium personal watch,2026-01-19,student0795@example.com,Returned
+LF0796,Lost,Sunglasses,Accessories,Milton,Pink,Main Gate,Medium everyday sunglasses,2026-10-19,student0796@example.com,Claimed
+LF0797,Lost,Tablet,Electronics,Boat,Red,Hostel,Large everyday tablet,2026-03-07,student0797@example.com,Active
+LF0798,Found,Tablet,Electronics,Apple,Green,Library,Large  tablet,2026-08-21,student0798@example.com,Active
+LF0799,Lost,Scarf,Clothing,Nike,Grey,Hostel,Small everyday scarf,2026-08-27,student0799@example.com,Active
+LF0800,Found,Earbuds,Electronics,Apple,Green,Classroom,Large personal earbuds,2026-06-11,student0800@example.com,Active
+LF0801,Lost,Water Bottle,Other,Samsung,Red,Classroom,Medium college water bottle,2026-08-05,student0801@example.com,Returned
+LF0802,Lost,ID Card,Documents,Apple,Grey,Computer Lab,Medium personal id card,2026-08-10,student0802@example.com,Active
+LF0803,Found,Hoodie,Clothing,Milton,Red,Canteen,personal hoodie,2026-06-20,student0803@example.com,Claimed
+LF0804,Lost,Umbrella,Clothing,Apple,Green,Auditorium,Small everyday umbrella,2026-02-01,student0804@example.com,Active
+LF0805,Lost,Charger,Electronics,Samsung,White,Library,Small college charger,2026-08-10,student0805@example.com,Active
+LF0806,Lost,Cap,Clothing,Dell,Black,Parking Area,cap,2026-07-30,student0806@example.com,Active
+LF0807,Lost,Umbrella,Clothing,Nike,Grey,Seminar Hall,Medium personal umbrella,2026-01-14,student0807@example.com,Active
+LF0808,Lost,Phone,Electronics,Unknown,Blue,Hostel,Large college phone,2026-04-10,student0808@example.com,Active
+LF0809,Found,Cap,Clothing,Apple,Black,Main Gate,Large  cap,2026-03-12,student0809@example.com,Active
+LF0810,Found,Calculator,Other,HP,Blue,Parking Area,Large college calculator,2026-10-05,student0810@example.com,Active
+LF0811,Lost,Certificate,Documents,Apple,Red,Hostel,Small  certificate,2026-03-16,student0811@example.com,Active
+LF0812,Lost,Notebook,Documents,Samsung,Grey,Classroom,notebook,2026-04-14,student0812@example.com,Active
+LF0813,Found,Calculator,Other,Sony,Blue,Canteen,personal calculator,2026-08-03,student0813@example.com,Active
+LF0814,Lost,Hoodie,Clothing,Nike,Red,Classroom,college hoodie,2026-04-28,student0814@example.com,Active
+LF0815,Found,Hoodie,Clothing,Sony,Black,Canteen,Large personal hoodie,2026-01-04,student0815@example.com,Active
+LF0816,Lost,Water Bottle,Other,Unknown,Grey,Library,Small everyday water bottle,2026-04-10,student0816@example.com,Active
+LF0817,Lost,Keychain,Accessories,HP,Grey,Hostel,Medium everyday keychain,2026-05-15,student0817@example.com,Active
+LF0818,Lost,Wallet,Accessories,Apple,Blue,Sports Ground,Small college wallet,2026-02-21,student0818@example.com,Claimed
+LF0819,Found,Keychain,Accessories,HP,Green,Canteen,Small everyday keychain,2026-07-10,student0819@example.com,Active
+LF0820,Lost,Watch,Accessories,Sony,Green,Classroom,Small everyday watch,2026-07-11,student0820@example.com,Active
+LF0821,Lost,Calculator,Other,Boat,Blue,Hostel,everyday calculator,2026-01-28,student0821@example.com,Active
+LF0822,Lost,Charger,Electronics,Milton,Grey,Parking Area,everyday charger,2026-07-18,student0822@example.com,Active
+LF0823,Found,Certificate,Documents,Nike,Brown,Seminar Hall,personal certificate,2026-09-11,student0823@example.com,Active
+LF0824,Lost,Watch,Accessories,Puma,Red,Computer Lab,watch,2026-05-01,student0824@example.com,Active
+LF0825,Found,Lunch Box,Other,HP,White,Computer Lab,college lunch box,2026-02-13,student0825@example.com,Active
+LF0826,Lost,Bag,Accessories,Puma,Pink,Parking Area,bag,2026-06-22,student0826@example.com,Active
+LF0827,Found,Book,Documents,HP,Pink,Classroom,Large personal book,2026-01-13,student0827@example.com,Active
+LF0828,Found,ID Card,Documents,Milton,White,Computer Lab,Medium personal id card,2026-09-20,student0828@example.com,Claimed
+LF0829,Found,Phone,Electronics,Sony,Red,Auditorium,Large college phone,2026-04-13,student0829@example.com,Active
+LF0830,Lost,Notebook,Documents,Boat,Black,Computer Lab,Large college notebook,2026-10-06,student0830@example.com,Returned
+LF0831,Lost,Cap,Clothing,HP,Green,Classroom,Medium everyday cap,2026-09-20,student0831@example.com,Active
+LF0832,Found,Hoodie,Clothing,Sony,White,Auditorium,Medium  hoodie,2026-08-25,student0832@example.com,Active
+LF0833,Found,Hoodie,Clothing,Apple,Grey,Main Gate,Medium college hoodie,2026-10-13,student0833@example.com,Active
+LF0834,Found,Charger,Electronics,Puma,Green,Hostel,Large college charger,2026-08-03,student0834@example.com,Active
+LF0835,Lost,Water Bottle,Other,Sony,Green,Sports Ground,Medium  water bottle,2026-03-20,student0835@example.com,Returned
+LF0836,Found,Tablet,Electronics,Sony,Pink,Computer Lab,Small everyday tablet,2026-02-25,student0836@example.com,Active
+LF0837,Lost,Tablet,Electronics,Apple,Blue,Classroom,Small  tablet,2026-09-08,student0837@example.com,Active
+LF0838,Lost,Notebook,Documents,Samsung,Pink,Library,Large personal notebook,2026-09-26,student0838@example.com,Active
+LF0839,Found,Keychain,Accessories,HP,Green,Parking Area,Small  keychain,2026-02-26,student0839@example.com,Active
+LF0840,Lost,Watch,Accessories,HP,Brown,Seminar Hall,Medium  watch,2026-09-01,student0840@example.com,Active
+LF0841,Lost,Notebook,Documents,Samsung,Green,Seminar Hall,Medium college notebook,2026-08-17,student0841@example.com,Returned
+LF0842,Found,Tiffin,Other,Samsung,Brown,Parking Area,Large college tiffin,2026-01-21,student0842@example.com,Active
+LF0843,Lost,Umbrella,Clothing,Unknown,Green,Parking Area,everyday umbrella,2026-04-02,student0843@example.com,Active
+LF0844,Found,Water Bottle,Other,Dell,Blue,Computer Lab,Large personal water bottle,2026-01-23,student0844@example.com,Active
+LF0845,Found,Sunglasses,Accessories,Samsung,Grey,Canteen,Small college sunglasses,2026-10-11,student0845@example.com,Returned
+LF0846,Lost,Cap,Clothing,Apple,Pink,Library,Small  cap,2026-09-17,student0846@example.com,Active
+LF0847,Found,Scarf,Clothing,Apple,Black,Computer Lab,Small everyday scarf,2026-07-23,student0847@example.com,Claimed
+LF0848,Found,Book,Documents,Milton,Red,Parking Area,Medium  book,2026-02-12,student0848@example.com,Active
+LF0849,Lost,Notebook,Documents,HP,Brown,Canteen,everyday notebook,2026-02-21,student0849@example.com,Claimed
+LF0850,Found,Phone,Electronics,HP,Red,Library,Medium  phone,2026-07-03,student0850@example.com,Active
+LF0851,Lost,Tablet,Electronics,Nike,Black,Seminar Hall,Small personal tablet,2026-06-07,student0851@example.com,Active
+LF0852,Lost,Hoodie,Clothing,Dell,White,Library,personal hoodie,2026-05-03,student0852@example.com,Active
+LF0853,Lost,Earbuds,Electronics,Dell,White,Main Gate,Medium personal earbuds,2026-02-02,student0853@example.com,Active
+LF0854,Lost,Umbrella,Clothing,Milton,Red,Seminar Hall,Medium  umbrella,2026-06-15,student0854@example.com,Claimed
+LF0855,Lost,Jacket,Clothing,Sony,Blue,Library,college jacket,2026-07-02,student0855@example.com,Active
+LF0856,Lost,Charger,Electronics,Boat,Grey,Library,Small everyday charger,2026-02-03,student0856@example.com,Active
+LF0857,Found,Scarf,Clothing,Milton,Blue,Computer Lab,Small college scarf,2026-02-22,student0857@example.com,Returned
+LF0858,Found,Hoodie,Clothing,Nike,White,Auditorium,Small  hoodie,2026-06-12,student0858@example.com,Active
+LF0859,Lost,Umbrella,Clothing,Dell,Black,Seminar Hall,Small college umbrella,2026-01-07,student0859@example.com,Active
+LF0860,Lost,Sunglasses,Accessories,HP,Grey,Parking Area,Large everyday sunglasses,2026-01-31,student0860@example.com,Active
+LF0861,Lost,Sunglasses,Accessories,Unknown,Pink,Auditorium,Medium college sunglasses,2026-05-02,student0861@example.com,Active
+LF0862,Found,ID Card,Documents,Apple,Red,Auditorium,Large everyday id card,2026-05-28,student0862@example.com,Active
+LF0863,Lost,Bag,Accessories,Dell,Green,Hostel,Large everyday bag,2026-05-08,student0863@example.com,Returned
+LF0864,Lost,Jacket,Clothing,Dell,Black,Main Gate,Medium everyday jacket,2026-02-05,student0864@example.com,Claimed
+LF0865,Lost,Laptop,Electronics,Puma,Pink,Computer Lab,Medium everyday laptop,2026-02-10,student0865@example.com,Active
+LF0866,Lost,Sunglasses,Accessories,Boat,Pink,Classroom,Large  sunglasses,2026-06-05,student0866@example.com,Active
+LF0867,Found,Earbuds,Electronics,Nike,Green,Hostel,everyday earbuds,2026-08-30,student0867@example.com,Active
+LF0868,Found,Jacket,Clothing,Boat,Blue,Hostel,Medium college jacket,2026-02-12,student0868@example.com,Active
+LF0869,Found,Cap,Clothing,Milton,Pink,Canteen,Large everyday cap,2026-07-12,student0869@example.com,Active
+LF0870,Lost,Hoodie,Clothing,Apple,Grey,Parking Area,hoodie,2026-01-03,student0870@example.com,Returned
+LF0871,Found,Scarf,Clothing,Puma,Black,Canteen,everyday scarf,2026-02-06,student0871@example.com,Active
+LF0872,Found,Sunglasses,Accessories,Milton,Pink,Auditorium,Small  sunglasses,2026-06-28,student0872@example.com,Claimed
+LF0873,Lost,Hoodie,Clothing,Apple,Blue,Computer Lab,everyday hoodie,2026-07-05,student0873@example.com,Active
+LF0874,Lost,Notebook,Documents,Puma,Green,Seminar Hall,Small everyday notebook,2026-02-17,student0874@example.com,Active
+LF0875,Found,Hoodie,Clothing,Milton,Green,Seminar Hall,Large  hoodie,2026-06-04,student0875@example.com,Active
+LF0876,Found,Phone,Electronics,Dell,Green,Computer Lab,Small everyday phone,2026-05-18,student0876@example.com,Claimed
+LF0877,Lost,Jacket,Clothing,Milton,Green,Computer Lab,everyday jacket,2026-08-02,student0877@example.com,Active
+LF0878,Lost,Keychain,Accessories,Nike,Blue,Hostel,Small  keychain,2026-04-12,student0878@example.com,Active
+LF0879,Lost,Lunch Box,Other,Dell,Brown,Sports Ground,personal lunch box,2026-04-04,student0879@example.com,Active
+LF0880,Found,Wallet,Accessories,Boat,White,Auditorium,Small everyday wallet,2026-03-05,student0880@example.com,Active
+LF0881,Lost,Cap,Clothing,Apple,Black,Canteen,Medium personal cap,2026-05-17,student0881@example.com,Active
+LF0882,Found,Umbrella,Clothing,Sony,Green,Auditorium,Large college umbrella,2026-08-31,student0882@example.com,Returned
+LF0883,Found,Notebook,Documents,Unknown,Black,Auditorium,Large personal notebook,2026-07-13,student0883@example.com,Active
+LF0884,Found,Charger,Electronics,Apple,White,Hostel,Large everyday charger,2026-03-13,student0884@example.com,Active
+LF0885,Found,Book,Documents,Apple,Grey,Library,Large personal book,2026-04-07,student0885@example.com,Active
+LF0886,Lost,Book,Documents,Unknown,White,Auditorium,book,2026-07-24,student0886@example.com,Active
+LF0887,Found,Charger,Electronics,Milton,Black,Main Gate,personal charger,2026-03-15,student0887@example.com,Active
+LF0888,Found,Folder,Documents,Samsung,Pink,Hostel,Medium everyday folder,2026-08-17,student0888@example.com,Active
+LF0889,Lost,Watch,Accessories,HP,Grey,Sports Ground,Large everyday watch,2026-01-15,student0889@example.com,Active
+LF0890,Lost,Book,Documents,Nike,White,Auditorium,Medium personal book,2026-10-01,student0890@example.com,Active
+LF0891,Found,Book,Documents,Puma,Red,Classroom,Large personal book,2026-10-15,student0891@example.com,Active
+LF0892,Lost,ID Card,Documents,Samsung,Grey,Main Gate,Large  id card,2026-04-07,student0892@example.com,Active
+LF0893,Found,Water Bottle,Other,Dell,Green,Sports Ground,Large college water bottle,2026-10-02,student0893@example.com,Active
+LF0894,Lost,Bag,Accessories,Milton,Pink,Auditorium,Medium college bag,2026-01-05,student0894@example.com,Active
+LF0895,Found,Sunglasses,Accessories,HP,Black,Seminar Hall,Large college sunglasses,2026-05-26,student0895@example.com,Active
+LF0896,Found,Water Bottle,Other,Nike,Red,Parking Area,Large  water bottle,2026-10-21,student0896@example.com,Returned
+LF0897,Lost,Earbuds,Electronics,Dell,Black,Main Gate,earbuds,2026-04-18,student0897@example.com,Claimed
+LF0898,Lost,Notebook,Documents,Puma,Pink,Auditorium,notebook,2026-06-22,student0898@example.com,Active
+LF0899,Found,Tablet,Electronics,Milton,Green,Canteen,Medium college tablet,2026-04-10,student0899@example.com,Active
+LF0900,Found,Water Bottle,Other,Unknown,Blue,Parking Area,college water bottle,2026-03-25,student0900@example.com,Active
+LF0901,Lost,Watch,Accessories,Apple,Grey,Seminar Hall,Small everyday watch,2026-04-11,student0901@example.com,Claimed
+LF0902,Lost,Cap,Clothing,Sony,Pink,Main Gate,Small personal cap,2026-02-19,student0902@example.com,Returned
+LF0903,Found,Calculator,Other,Dell,Black,Canteen,Medium  calculator,2026-07-26,student0903@example.com,Returned
+LF0904,Lost,Scarf,Clothing,Samsung,Pink,Sports Ground,Large  scarf,2026-07-12,student0904@example.com,Active
+LF0905,Lost,ID Card,Documents,Nike,Red,Library,college id card,2026-03-04,student0905@example.com,Active
+LF0906,Lost,Tablet,Electronics,Boat,Blue,Canteen,Large personal tablet,2026-08-11,student0906@example.com,Active
+LF0907,Found,Lunch Box,Other,Puma,Pink,Canteen,Small everyday lunch box,2026-01-11,student0907@example.com,Claimed
+LF0908,Lost,Laptop,Electronics,Sony,White,Library,Medium everyday laptop,2026-08-17,student0908@example.com,Active
+LF0909,Found,Wallet,Accessories,Samsung,White,Hostel,Large college wallet,2026-01-18,student0909@example.com,Claimed
+LF0910,Found,Lunch Box,Other,Dell,Brown,Library,Large  lunch box,2026-01-01,student0910@example.com,Returned
+LF0911,Found,Bag,Accessories,Sony,Red,Canteen,Small everyday bag,2026-09-25,student0911@example.com,Active
+LF0912,Lost,Laptop,Electronics,HP,Red,Seminar Hall,Large college laptop,2026-04-21,student0912@example.com,Active
+LF0913,Found,Bag,Accessories,Boat,Green,Main Gate,bag,2026-05-11,student0913@example.com,Active
+LF0914,Found,Earbuds,Electronics,Milton,Red,Canteen,Large everyday earbuds,2026-03-15,student0914@example.com,Returned
+LF0915,Lost,Folder,Documents,Sony,Green,Sports Ground,Small everyday folder,2026-03-20,student0915@example.com,Active
+LF0916,Lost,Earbuds,Electronics,Puma,White,Auditorium,Small college earbuds,2026-10-08,student0916@example.com,Active
+LF0917,Lost,Certificate,Documents,Boat,Black,Canteen,everyday certificate,2026-04-26,student0917@example.com,Claimed
+LF0918,Lost,Jacket,Clothing,Unknown,Pink,Canteen,Large college jacket,2026-06-06,student0918@example.com,Active
+LF0919,Lost,Calculator,Other,Sony,Green,Main Gate,Large  calculator,2026-03-29,student0919@example.com,Claimed
+LF0920,Lost,Umbrella,Clothing,HP,Blue,Main Gate,college umbrella,2026-09-20,student0920@example.com,Active
+LF0921,Lost,Earbuds,Electronics,Nike,Blue,Parking Area,Large  earbuds,2026-08-03,student0921@example.com,Active
+LF0922,Found,Calculator,Other,Dell,Brown,Canteen,Large  calculator,2026-09-24,student0922@example.com,Returned
+LF0923,Lost,ID Card,Documents,Samsung,Blue,Seminar Hall,Small personal id card,2026-05-03,student0923@example.com,Active
+LF0924,Found,Folder,Documents,Puma,Blue,Parking Area,personal folder,2026-01-06,student0924@example.com,Claimed
+LF0925,Lost,Jacket,Clothing,Puma,Grey,Classroom,Small  jacket,2026-01-04,student0925@example.com,Returned
+LF0926,Lost,Bag,Accessories,HP,Grey,Library,bag,2026-07-07,student0926@example.com,Active
+LF0927,Found,Hoodie,Clothing,Dell,White,Computer Lab,Large  hoodie,2026-06-23,student0927@example.com,Returned
+LF0928,Lost,Certificate,Documents,Puma,Red,Computer Lab,Small  certificate,2026-10-19,student0928@example.com,Active
+LF0929,Lost,Tiffin,Other,Sony,Brown,Auditorium,Small personal tiffin,2026-08-24,student0929@example.com,Active
+LF0930,Found,Notebook,Documents,Puma,Pink,Classroom,Small everyday notebook,2026-02-21,student0930@example.com,Active
+LF0931,Found,Jacket,Clothing,Dell,Pink,Sports Ground,Large college jacket,2026-05-09,student0931@example.com,Active
+LF0932,Lost,Book,Documents,Samsung,Pink,Parking Area,Medium everyday book,2026-05-18,student0932@example.com,Active
+LF0933,Lost,Book,Documents,Samsung,Red,Computer Lab,Small everyday book,2026-04-12,student0933@example.com,Active
+LF0934,Found,Cap,Clothing,Dell,Pink,Computer Lab,Small  cap,2026-03-24,student0934@example.com,Returned
+LF0935,Found,Umbrella,Clothing,Sony,Green,Hostel,everyday umbrella,2026-03-07,student0935@example.com,Claimed
+LF0936,Lost,Phone,Electronics,Milton,Black,Classroom,Small college phone,2026-06-26,student0936@example.com,Active
+LF0937,Lost,Umbrella,Clothing,Boat,Pink,Canteen,everyday umbrella,2026-05-29,student0937@example.com,Active
+LF0938,Lost,Lunch Box,Other,Boat,Red,Sports Ground,Medium  lunch box,2026-02-28,student0938@example.com,Active
+LF0939,Lost,Tablet,Electronics,Dell,White,Main Gate,personal tablet,2026-03-18,student0939@example.com,Active
+LF0940,Lost,Notebook,Documents,Samsung,Black,Sports Ground,college notebook,2026-04-13,student0940@example.com,Active
+LF0941,Found,Watch,Accessories,Milton,Green,Library,Large personal watch,2026-02-01,student0941@example.com,Active
+LF0942,Found,Certificate,Documents,Dell,Grey,Library,Medium personal certificate,2026-08-03,student0942@example.com,Returned
+LF0943,Found,Phone,Electronics,Boat,White,Sports Ground,Medium college phone,2026-08-30,student0943@example.com,Active
+LF0944,Found,Scarf,Clothing,Apple,Blue,Auditorium,Large college scarf,2026-02-19,student0944@example.com,Active
+LF0945,Found,Bottle,Other,Dell,Green,Canteen,Small everyday bottle,2026-05-22,student0945@example.com,Active
+LF0946,Lost,Water Bottle,Other,Dell,Pink,Canteen,Small college water bottle,2026-04-08,student0946@example.com,Active
+LF0947,Lost,Book,Documents,Apple,Blue,Classroom,college book,2026-03-20,student0947@example.com,Active
+LF0948,Found,Calculator,Other,Puma,White,Parking Area,personal calculator,2026-03-02,student0948@example.com,Active
+LF0949,Found,Bag,Accessories,Boat,Black,Seminar Hall,Small everyday bag,2026-03-08,student0949@example.com,Active
+LF0950,Lost,Cap,Clothing,Puma,Green,Sports Ground,Large everyday cap,2026-09-18,student0950@example.com,Active
+LF0951,Lost,Wallet,Accessories,Milton,Pink,Hostel,Large college wallet,2026-01-05,student0951@example.com,Active
+LF0952,Found,Keychain,Accessories,Dell,Black,Hostel,Medium college keychain,2026-03-29,student0952@example.com,Active
+LF0953,Found,Laptop,Electronics,Apple,Red,Classroom,Small personal laptop,2026-05-19,student0953@example.com,Returned
+LF0954,Found,Folder,Documents,Boat,Blue,Sports Ground,Large college folder,2026-10-09,student0954@example.com,Active
+LF0955,Found,Phone,Electronics,HP,Brown,Library,Small  phone,2026-05-24,student0955@example.com,Active
+LF0956,Lost,Folder,Documents,Sony,Brown,Classroom,everyday folder,2026-04-23,student0956@example.com,Claimed
+LF0957,Found,Hoodie,Clothing,Samsung,Pink,Main Gate,everyday hoodie,2026-09-03,student0957@example.com,Active
+LF0958,Found,Watch,Accessories,Boat,Black,Computer Lab,Medium everyday watch,2026-04-03,student0958@example.com,Returned
+LF0959,Lost,Umbrella,Clothing,Puma,Red,Parking Area,personal umbrella,2026-02-06,student0959@example.com,Active
+LF0960,Lost,Lunch Box,Other,Puma,Black,Canteen,Small personal lunch box,2026-07-13,student0960@example.com,Active
+LF0961,Lost,Watch,Accessories,Apple,White,Hostel,Large personal watch,2026-01-07,student0961@example.com,Active
+LF0962,Found,Watch,Accessories,HP,Brown,Auditorium,everyday watch,2026-08-16,student0962@example.com,Claimed
+LF0963,Found,Wallet,Accessories,Apple,Black,Canteen,Large personal wallet,2026-03-05,student0963@example.com,Active
+LF0964,Lost,Tiffin,Other,Apple,Red,Sports Ground,everyday tiffin,2026-04-25,student0964@example.com,Active
+LF0965,Lost,Certificate,Documents,Samsung,Pink,Main Gate,Small everyday certificate,2026-07-16,student0965@example.com,Returned
+LF0966,Found,Earbuds,Electronics,Samsung,Grey,Canteen,Small everyday earbuds,2026-06-20,student0966@example.com,Active
+LF0967,Found,Sunglasses,Accessories,HP,Brown,Seminar Hall,Large college sunglasses,2026-08-06,student0967@example.com,Active
+LF0968,Found,Earbuds,Electronics,Samsung,Black,Main Gate,Medium college earbuds,2026-05-16,student0968@example.com,Active
+LF0969,Found,Sunglasses,Accessories,Samsung,White,Seminar Hall,college sunglasses,2026-09-02,student0969@example.com,Active
+LF0970,Found,Wallet,Accessories,Puma,Grey,Auditorium,wallet,2026-04-04,student0970@example.com,Returned
+LF0971,Found,Cap,Clothing,Puma,Green,Hostel,cap,2026-05-06,student0971@example.com,Active
+LF0972,Lost,Bottle,Other,Puma,Red,Canteen,Medium college bottle,2026-10-25,student0972@example.com,Active
+LF0973,Lost,Laptop,Electronics,HP,White,Library,Large college laptop,2026-08-31,student0973@example.com,Active
+LF0974,Found,Keychain,Accessories,Puma,Red,Classroom,Medium personal keychain,2026-10-10,student0974@example.com,Active
+LF0975,Lost,Wallet,Accessories,Puma,Grey,Library,Small personal wallet,2026-01-14,student0975@example.com,Active
+LF0976,Lost,Umbrella,Clothing,HP,White,Classroom,Small personal umbrella,2026-07-07,student0976@example.com,Active
+LF0977,Lost,Tiffin,Other,HP,Brown,Parking Area,college tiffin,2026-08-29,student0977@example.com,Claimed
+LF0978,Found,Jacket,Clothing,Apple,Blue,Hostel,Medium personal jacket,2026-01-31,student0978@example.com,Active
+LF0979,Found,Cap,Clothing,Unknown,Brown,Classroom,everyday cap,2026-05-13,student0979@example.com,Active
+LF0980,Found,ID Card,Documents,Dell,Green,Seminar Hall,Small everyday id card,2026-03-06,student0980@example.com,Returned
+LF0981,Lost,Hoodie,Clothing,Nike,Grey,Sports Ground,everyday hoodie,2026-08-28,student0981@example.com,Claimed
+LF0982,Found,Earbuds,Electronics,Samsung,White,Auditorium,Large personal earbuds,2026-02-25,student0982@example.com,Active
+LF0983,Lost,Keychain,Accessories,Dell,Black,Computer Lab,Medium everyday keychain,2026-02-03,student0983@example.com,Active
+LF0984,Found,Laptop,Electronics,Unknown,Black,Seminar Hall,personal laptop,2026-10-19,student0984@example.com,Active
+LF0985,Lost,Earbuds,Electronics,Sony,Brown,Sports Ground,Medium college earbuds,2026-01-05,student0985@example.com,Returned
+LF0986,Lost,Scarf,Clothing,Sony,Green,Hostel,Small everyday scarf,2026-02-19,student0986@example.com,Active
+LF0987,Found,Tablet,Electronics,Boat,Blue,Main Gate,personal tablet,2026-01-20,student0987@example.com,Active
+LF0988,Lost,Laptop,Electronics,HP,Grey,Parking Area,Medium college laptop,2026-03-14,student0988@example.com,Claimed
+LF0989,Found,Certificate,Documents,Dell,Red,Seminar Hall,Small everyday certificate,2026-07-18,student0989@example.com,Active
+LF0990,Lost,Tiffin,Other,Boat,White,Parking Area,Small  tiffin,2026-03-15,student0990@example.com,Claimed
+LF0991,Found,Notebook,Documents,Unknown,Grey,Auditorium,Small personal notebook,2026-05-24,student0991@example.com,Active
+LF0992,Found,Sunglasses,Accessories,Nike,Blue,Canteen,personal sunglasses,2026-05-12,student0992@example.com,Returned
+LF0993,Found,Certificate,Documents,Nike,Grey,Hostel,Large college certificate,2026-03-08,student0993@example.com,Active
+LF0994,Found,Charger,Electronics,Unknown,Black,Classroom,Small everyday charger,2026-01-22,student0994@example.com,Active
+LF0995,Found,Earbuds,Electronics,Samsung,Red,Sports Ground,personal earbuds,2026-07-24,student0995@example.com,Active
+LF0996,Found,Book,Documents,Samsung,White,Main Gate,Small  book,2026-08-27,student0996@example.com,Active
+LF0997,Found,Hoodie,Clothing,Sony,Pink,Classroom,personal hoodie,2026-06-12,student0997@example.com,Active
+LF0998,Lost,Book,Documents,HP,Red,Auditorium,Small  book,2026-08-29,student0998@example.com,Active
+LF0999,Found,Earbuds,Electronics,Apple,Red,Library,college earbuds,2026-04-20,student0999@example.com,Returned
+LF1000,Lost,Notebook,Documents,Puma,White,Computer Lab,notebook,2026-05-21,student1000@example.com,Active
+LF1001,Found,watch,Accessories,apple,black,ground,na,2026-10-30,88999899898,Active
